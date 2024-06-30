@@ -109,8 +109,7 @@ cargo check --target wasm32-unknown-unknown
 - [rust Core crate](https://doc.rust-lang.org/core/index.html)
 
 ## 引用及资源
-- [Rust 编程之道核心库和标准库的介绍])(https://weread.qq.com/web/reader/0303203071848774030b9d6k9bf32f301f9bf31c7ff0a60)
-
+- [Rust 编程之道核心库和标准库的介绍](https://weread.qq.com/web/reader/0303203071848774030b9d6k9bf32f301f9bf31c7ff0a60)
 - [Rust embeded book](https://docs.rust-embedded.org/book/intro/hardware.html)
 - [扩展 no_std crate 的最佳实践](https://users.rust-lang.org/t/best-practice-of-extending-a-no-std-crate/12281/5)
 - [Rust API guidelines](https://github.com/rust-lang/api-guidelines)

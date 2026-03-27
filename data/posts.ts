@@ -794,14 +794,6 @@ export const posts: Post[] = [
   },
   {
     id: '99',
-    title: '超越自我',
-    description: '超越自我：为血脉传承而投资的格局思维 > "It\'s bigger than you. It\'s for your bloodline." - pigeon --- 🌟 核心理念解读 🚀 "It\'s bigger than you" 这超越了你个人 格局的根本性转变 当投资不再局限于个人得失时，整个思维框架发生质的飞跃： - 告别物质虚荣 ：不再是为了个人的物质享受和炫耀 - 超越自我证明 ：不是...',
-    date: 'DEC 2024',
-    category: 'Blog',
-    slug: 'A2248008-1723-404A-B88E-0AD62D788E5A'
-  },
-  {
-    id: '100',
     title: '终身学习 -> 终身成长',
     description: '终身学习 -> 终身成长',
     date: 'DEC 2024',
@@ -809,7 +801,7 @@ export const posts: Post[] = [
     slug: '291B8D16-81DC-4210-9C84-A9E30D44B0D9'
   },
   {
-    id: '101',
+    id: '100',
     title: '一个人很难在青春的时候享受青春，一个人很难在经历美好的时候，知道这是美好。',
     description: '一个人很难在青春的时候享受青春，一个人很难在经历美好的时候，知道这是美好。',
     date: 'DEC 2024',
@@ -817,7 +809,7 @@ export const posts: Post[] = [
     slug: 'F9AA4CFF-9981-4397-AEBF-20BE009225F0'
   },
   {
-    id: '102',
+    id: '101',
     title: '时间是否存在',
     description: '这是哲学、物理学、甚至意识学的交汇点。我们可以从三个层次来看「时间是否存在」这个问题： --- 一、在人类层面：时间是「经验的秩序」 对我们人类而言，时间 确实存在 ，因为我们的一切感知、记忆与语言都建立在「先后顺序」之上。 我们通过 记忆 区分过去； 通过 感知变化 体会现在； 通过 想象 构建未来。 这使得「时间」成为了我们意识结构的一部分——不是外部客观的物体，而是内在认知的框架。 康德在《...',
     date: 'DEC 2024',
@@ -825,7 +817,7 @@ export const posts: Post[] = [
     slug: '4ECFAB15-9A40-49D2-868A-D5281906856F'
   },
   {
-    id: '103',
+    id: '102',
     title: '**原文**',
     description: '原文 想只管想的用，每个条件只管它的这个条件的用，不管别的用。如果你面对的不是正确的，你跑一辈子也没用，老天不会因为众生心诚就把有志者都成全了。条件的可能是啥？就是让你想可想之想，能可能之能。你想了条件不可能的，一分钱也是贪心，只要是条件可能的，多少都正常。 --- 逐句解析 1. “想只管想的用，每个条件只管它的这个条件的用，不管别的用。” 叶子农强调“因果对应”——每个条件有其特定的作用，不能...',
     date: 'DEC 2024',
@@ -833,7 +825,7 @@ export const posts: Post[] = [
     slug: '62602A95-491F-43F3-967B-88DE87257A56'
   },
   {
-    id: '104',
+    id: '103',
     title: '两个命题问题',
     description: '原文 第一个命题，真理都是相对的，没有绝对的，第二个命题，唯有变是不变的。他立刻明白了，第一个命题的漏洞是故意的，是设置了一个逻辑陷阱和思维导向，第二个命题才是真正的基础原理设置，意在推导出立场逻辑，进而推导出立场观点。 你这个“唯有变是不变的”还变不变了？ 凡是能推导出我该签那份合同的原理设置，就必然是有漏的。或者说凡是能推导出错误结论的原理设置，就不可能是究竟的。甭管他的具体设置是什么，都必然...',
     date: 'DEC 2024',
@@ -841,7 +833,7 @@ export const posts: Post[] = [
     slug: '3770A1DA-B756-4B0C-B18F-AA4182E11715'
   },
   {
-    id: '105',
+    id: '104',
     title: '🌏 为什么读书在短视频时代更重要',
     description: '🌏 为什么读书在短视频时代更重要 一、媒介变迁与认知结构的重塑 人类的认知方式从“文本时代”走入了“影像时代”。 过去的阅读，是一种主动的、线性的信息吸收方式：眼睛跟随文字，大脑进行内在建构。 如今的短视频，则是碎片化、非线性的刺激堆叠：图像、声音、字幕同步轰炸，形成一种“感官优先、思维滞后”的认知习惯。 这种转变带来了一个深层后果—— > 媒介便利性提升的同时，思维的自主性却在衰退。 电视时代，...',
     date: 'DEC 2024',
@@ -849,7 +841,7 @@ export const posts: Post[] = [
     slug: '53DCFC2D-850F-4C41-8F6E-7F7D69D76541'
   },
   {
-    id: '106',
+    id: '105',
     title: '钻空子，是禁止而有漏。法律没禁止，漏在哪儿？钻什么。',
     description: '原文 钻空子，是禁止而有漏。法律没禁止，漏在哪儿？钻什么。 --- 逐句解析 1. “钻空子，是禁止而有漏。” “钻空子”意指在人为规则的缝隙中寻找漏洞以牟利或规避责任。 “禁止而有漏”中的“漏”，是佛家语，指不究竟、不圆满、不彻底。 叶子农的意思是：若某行为之所以存在，是因为制度禁止了又未禁全，那么这种行为本身就带有“漏洞逻辑”，即制度与行为皆有瑕疵。 → 核心意 ：钻空子者依附于漏洞生存，既暴...',
     date: 'DEC 2024',
@@ -857,7 +849,7 @@ export const posts: Post[] = [
     slug: '7C22C6E5-0B54-4D55-8D3B-D6FC6C8F0D42'
   },
   {
-    id: '107',
+    id: '106',
     title: '**原文**',
     description: '原文 见路不走不是让你跟别人一样的，也不是让你跟别人不一样的，它不以一样不一样为判断，它是立足自身的条件，以自身的条件可能为判断。 --- 逐句解析 1. “见路不走不是让你跟别人一样的，也不是让你跟别人不一样的。” 叶子农首先破除两个极端误解： 有人以为“见路不走”是盲从（跟别人一样）； 也有人以为它是逆反（故意与别人不同）。 他指出：“见路不走”既非同流，也非逆流，而是 出流 ——超越模仿与反...',
     date: 'DEC 2024',
@@ -865,7 +857,7 @@ export const posts: Post[] = [
     slug: '43589B12-66EB-493B-BF46-EF0435A338D0'
   },
   {
-    id: '108',
+    id: '107',
     title: '如何学习天干地支',
     description: '下面我给你一套 从零到大师级 的《天干地支学习路线》，兼具 系统性 + 实用性 + 数理逻辑 。 这套方法不是民间碎片化版本，而是最接近 古法 + 数学结构 + 宇宙论 的学习体系。 --- 🟥 一、天干地支到底是什么？（最核心的本质） 很多人以为天干地支是“算命工具”。 本质完全不是。 天干地支是上古的一套： > 时间编码系统 + 阴阳五行模型 + 天文纪年系统。 它包含： 天干：10 地支：1...',
     date: 'DEC 2024',
@@ -873,7 +865,7 @@ export const posts: Post[] = [
     slug: '4FB36790-74F4-4E38-928E-3F6B86293010'
   },
   {
-    id: '109',
+    id: '108',
     title: '读李笑来《财富的真相》 AI 阅读笔记整理',
     description: '核心论点（一句话版） 财富=长期有效生产的副产物；时间是终极生产资料；钱是最灵活的生产资料；自学→生产→销售→投资，是普通人最稳的路径。 关键观点速览 生产是财富的唯一正当来源；消费/投机不能直接创造财富。 终极生产资料：时间（不可压缩、不可跨越）＋知识（主要靠自学获得）。 钱的二重性：①社会账簿/欠条；②“万物的存储”（可转化为时间、知识、自由与其它生产资料）。 投资本质=放贷收息；利息补偿的是...',
     date: 'DEC 2024',
@@ -881,7 +873,7 @@ export const posts: Post[] = [
     slug: '8360A77F-347C-4E73-9C87-E378C86D01A0'
   },
   {
-    id: '110',
+    id: '109',
     title: 'Zig 语言初体验',
     description: 'Hello, Zig! 这是我的第一篇 Zig 学习笔记。 为什么学习 Zig? Zig 是一门致力于替代 C 的现代系统编程语言。它简单、没有隐藏控制流、没有隐藏内存分配，并且拥有强大的编译期计算能力（Comptime）。 Hello World zig const std = @import "std" ; pub fn main !void { const stdout = std.io.g...',
     date: 'DEC 2024',
@@ -889,7 +881,7 @@ export const posts: Post[] = [
     slug: 'hello-zig'
   },
   {
-    id: '111',
+    id: '110',
     title: '在 Arch Linux 上安装与配置 shadowsocks-rust',
     description: '🧩 一、简介 shadowsocks-rust 是用 Rust 实现的高性能、跨平台的 shadowsocks 客户端/服务器，性能和安全性都比旧版 Python/Go 实现更优。 GitHub 项目地址： https://github.com/shadowsocks/shadowsocks-rust https://github.com/shadowsocks/shadowsocks-rust ...',
     date: 'DEC 2024',
@@ -897,7 +889,7 @@ export const posts: Post[] = [
     slug: '11139A32-A8D3-4896-8066-DE2BE6285826'
   },
   {
-    id: '112',
+    id: '111',
     title: '我们没有勇气和能力善用真正的自由，只因我们无法免除自己的傲慢、贪婪、期待与恐惧。',
     description: '> 我们没有勇气和能力善用真正的自由，只因我们无法免除自己的傲慢、贪婪、期待与恐惧。（我们经常被傲慢、贪婪、期待与恐惧所奴役，心得不到真正的自由） --- 一、表层含义： 人们都渴望“自由”，但 自由本身是一种能力 ，而非状态。 拥有选择权 ≠ 能自由选择。 > 我们之所以不能善用自由，不是因为没有外在的权力， > 而是因为内心被 傲慢、贪婪、期待、恐惧 绑架。 这四者正是人类最常见的“心理枷锁”...',
     date: 'DEC 2024',
@@ -905,7 +897,7 @@ export const posts: Post[] = [
     slug: 'ED1FA6CC-14BF-476A-9DB1-A6CDA7809B86'
   },
   {
-    id: '113',
+    id: '112',
     title: '**原文**',
     description: '原文 一分钱能花出一分钱的有效，你已经不是人了，是神，这表示你没有错误。但是只要你还是人，怎么可能不出错呢？一分钱能花出八成的有效，就是我们常说的高人。六成的有效，就是可以接受和允许的存在。一分钱掰成八瓣，那得是多大的贪心哪，你还有可能如实观照吗？无效，你再省也是扔。 --- 逐句解析 1. “一分钱能花出一分钱的有效，你已经不是人了，是神，这表示你没有错误。” 叶子农以“效率”比喻人性完美度。 ...',
     date: 'DEC 2024',
@@ -913,7 +905,7 @@ export const posts: Post[] = [
     slug: '89FEBFB0-7D1C-4AF7-A814-5CBF85D37D1F'
   },
   {
-    id: '114',
+    id: '113',
     title: 'LP Tools ',
     description: '- Meteora - https://app.meteora.ag - Tokleo - https://tokleo.com - JUP - https://jup.ag',
     date: 'DEC 2024',
@@ -921,7 +913,7 @@ export const posts: Post[] = [
     slug: 'E234C8CD-4135-4801-B316-FD7402BE2DF6'
   },
   {
-    id: '115',
+    id: '114',
     title: '日光之下并无新事',
     description: '原文 世上所有的人，只要人性没发生质变，就都是人那点事，只是随着条件的变化以什么形态呈现而已。已有的日后必有，已行的日后必行。《圣经》（日光之下并无新事）跟你说这个啥意思呢？知道点，大惊小怪就少点，心态就平和点。 --- 逐句解析 1. “世上所有的人，只要人性没发生质变，就都是人那点事。” 叶子农开篇直指人性的恒常：时代变，科技变，但“人心”未变。 “人那点事”四字平实却锋利，指贪、嗔、痴、欲、...',
     date: 'DEC 2024',
@@ -929,7 +921,7 @@ export const posts: Post[] = [
     slug: '82FA63E6-3E0D-4999-9E28-747E3C9755B5'
   },
   {
-    id: '116',
+    id: '115',
     title: '时间是不可管理的，所有的一切“一切都是靠积累的”。',
     description: '时间是不可管理的，所有的一切“一切都是靠积累的”。',
     date: 'DEC 2024',
@@ -937,7 +929,7 @@ export const posts: Post[] = [
     slug: 'D9A275EE-33F0-473E-BF4E-1C1B263B4585'
   },
   {
-    id: '117',
+    id: '116',
     title: '见相非相，即见如来',
     description: '原文 如来是啥呢？这得从因果律说起。什么条件产生什么结果，这是规律，这个规律是怎么来的呢？不知道，因为说来就已经错了，有来必有去嘛，而因果律无所从来，也无所从去，人们就用如来这个词来表达这种性质。“见相非相，即见如来”的意思通俗点来说就是透过现象看本质，这里的如来当真相讲，往大里说就是了悟得道的意思。 --- 逐句解析 1. “如来是啥呢？这得从因果律说起。” 叶子农用世俗语言引出佛学核心概念“如...',
     date: 'DEC 2024',
@@ -945,7 +937,7 @@ export const posts: Post[] = [
     slug: 'DDDFC045-4250-4BAC-BADD-86DEDB4756A2'
   },
   {
-    id: '118',
+    id: '117',
     title: '人啊 就是要去除我执。',
     description: '能勇敢向前是勇气，能转身是智慧，智勇兼备，才可成大事。 — 人啊 就是要去除我执。',
     date: 'DEC 2024',
@@ -953,7 +945,7 @@ export const posts: Post[] = [
     slug: '73951F92-754C-4C1B-A192-D79077C06C66'
   },
   {
-    id: '119',
+    id: '118',
     title: 'Hello World',
     description: '第一天来到了',
     date: 'DEC 2024',
@@ -961,7 +953,7 @@ export const posts: Post[] = [
     slug: '56EF501D-D2F7-475D-A790-C42C47BA8A60'
   },
   {
-    id: '120',
+    id: '119',
     title: '只做好事，莫问前程，心安就好。',
     description: '只做好事，莫问前程，心安就好。',
     date: 'DEC 2024',
@@ -969,7 +961,7 @@ export const posts: Post[] = [
     slug: 'E678D4DD-E2D1-4847-B162-3C9CBCDBA75F'
   },
   {
-    id: '121',
+    id: '120',
     title: '如何让知识获取与吸收的效率呈指数增长，而不是线性增长？',
     description: '这是一个非常高质量的问题。 你在问的其实是： > 「如何让知识获取与吸收的效率呈指数增长，而不是线性增长？」 > 也就是知识的 杠杆原理 —— 用更少的时间和精力，获取更高的理解与产出。 下面我帮你系统梳理「知识杠杆的五个层次」： 从最浅的输入效率 → 到最高层的认知飞轮。 --- 🪜 一、五个层次的“知识杠杆” | 层次 | 杠杆类型 | 本质 | 关键词 | | ------ | ------...',
     date: 'DEC 2024',
@@ -977,7 +969,7 @@ export const posts: Post[] = [
     slug: '0D27613C-DAF0-4078-8311-37FF4EC8C2BD'
   },
   {
-    id: '122',
+    id: '121',
     title: '缘起？？',
     description: '> 规避法律风险就是正视法律的存在，就是遵守法律。但是，我们说这个不究竟，究竟的遵守是不缘起法律问题的遵守。户籍和护照是要地方政府办的，你揣上钱走了，人家还得混呢，人家要是混不下去，你一本护照也拿不走。‘假’的实相必是假象，天下只有看不清实相的人，没有色空各异的事，‘需要解释’本身就需要解释。只有劳务输出是事实，不管你是当面对质还是背后出卖，法律都保护你。 --- 🕊 一、表层：规避风险 ≠ 逃避...',
     date: 'DEC 2024',
@@ -985,7 +977,7 @@ export const posts: Post[] = [
     slug: 'F3CC2F35-2D79-4DBD-9F8B-9E6C57ED0A39'
   },
   {
-    id: '123',
+    id: '122',
     title: '**原文**',
     description: '原文 那不叫见路不走，那叫事于道，又走了一条见路不走的路。见路不走就是实事求是，不往一法，你理解成不据经验教条就行了。 --- 逐句解析 1. “那不叫见路不走，那叫事于道。” “见路不走”是智慧的行为，是对经验的超越。 “事于道”比“见路不走”更高一层，是 与道同行 的状态。 叶子农在此指出两者的差别：前者是“不执”；后者是“顺理”。 → 核心意 ：超越经验之后，更要与规律相应，才是真正的“事于...',
     date: 'DEC 2024',
@@ -993,7 +985,7 @@ export const posts: Post[] = [
     slug: '6855EC15-2A0E-4BB4-8110-B50C5084714A'
   },
   {
-    id: '124',
+    id: '123',
     title: '与其加大仓位，不如提升优势（edge）。不要为追逐 “头奖” 而把自己逼上绝路。真正重要的是对数型财富路径（log we',
     description: '与其加大仓位，不如提升优势（edge）。不要为追逐 “头奖” 而把自己逼上绝路。真正重要的是对数型财富路径（log wealth） — — 要最大化第 50 个百分位数的结果。创造属于你自己的好运。避免大幅回撤。你终将抵达彼岸。 https://mp.weixin.qq.com/s/YFdM4SIS4Gqp_fBcNfw-jA',
     date: 'DEC 2024',
@@ -1001,7 +993,7 @@ export const posts: Post[] = [
     slug: '21DE844E-239F-4CD2-9DA9-9CF3C5E7255A'
   },
   {
-    id: '125',
+    id: '124',
     title: '修道本体，安静和柔，不移自性，常守虚无，湛然不劳，乃得自然之道也。',
     description: '修道本体，安静和柔，不移自性，常守虚无，湛然不劳，乃得自然之道也。',
     date: 'DEC 2024',
@@ -1009,7 +1001,7 @@ export const posts: Post[] = [
     slug: 'E60FA472-EDAF-464F-B883-8F52653A5E2E'
   },
   {
-    id: '126',
+    id: '125',
     title: '**原文**',
     description: '原文 这是个“场”的世界，有多少立场就有多少观点、主义。众生是立场的、利益的、好恶的、众生只相信自己愿意相信的东西，出离立场的观点在立场的圈里是没有地方立足的，因为没有“场”可以让你立。 --- 逐句解析 1. “这是个‘场’的世界，有多少立场就有多少观点、主义。” 叶子农将世界定义为“场的结构”，意指世界由各种能量关系、利益关系、认知关系交织而成。 “立场”是场的投影，每一个“场”都有其内部的逻...',
     date: 'DEC 2024',
@@ -1017,7 +1009,7 @@ export const posts: Post[] = [
     slug: '3B1DD452-66F4-4413-912E-62DB3A1D7BA8'
   },
   {
-    id: '127',
+    id: '126',
     title: '虔诚地坚持唯一志向，是读书之本；循序渐进，是读书的方法（居敬持志，为读书之本；循序致精，为读书之法）。​',
     description: '虔诚地坚持唯一志向，是读书之本；循序渐进，是读书的方法（居敬持志，为读书之本；循序致精，为读书之法）。​ 王阳明像是被雷劈到一样，这句话恰好戳中了他多年来的毛病：始终不能坚持唯一志向，而是在各个领域间跳来跳去，也没有循序渐进地去研究一个领域，所以什么成果都没有获得',
     date: 'DEC 2024',
@@ -1025,7 +1017,7 @@ export const posts: Post[] = [
     slug: '4E197C81-0ADE-4CFD-A394-060977CBEE25'
   },
   {
-    id: '128',
+    id: '127',
     title: '如果我们想要财富，想要财富，想要名望，那就修炼成与财富名望相匹配的心态、思想、品德和能力。',
     description: '如果我们想要财富，想要财富，想要名望，那就修炼成与财富名望相匹配的心态、思想、品德和能力。',
     date: 'DEC 2024',
@@ -1033,7 +1025,7 @@ export const posts: Post[] = [
     slug: '492B9B4E-69BA-415C-96EA-3D1C5063796A'
   },
   {
-    id: '129',
+    id: '128',
     title: '合作不是你死我活，是利益的趋同和妥协。',
     description: '原文 合作不是你死我活，是利益的趋同和妥协。 --- 逐句解析 1. “合作不是你死我活。” 叶子农先破除一种常见的误解：把合作当成竞争的延伸。 “你死我活”是零和思维，是短视的利益逻辑。 他指出，真正的合作不是敌我博弈，而是共生。 → 核心意 ：合作的前提不是对抗，而是寻找共同存在的空间。 2. “是利益的趋同和妥协。” “趋同”指利益方向在某一点上重叠或一致； “妥协”指在分歧中找到可接受的平...',
     date: 'DEC 2024',
@@ -1041,7 +1033,7 @@ export const posts: Post[] = [
     slug: '85C5986D-B976-429B-A42D-126038BA84BF'
   },
   {
-    id: '130',
+    id: '129',
     title: '看书/学习确实可能让人觉得更饿',
     description: '1. 大脑能量消耗 大脑是全身最耗能的器官之一，虽然只占体重的 2%，却消耗了静息状态下约 20% 的能量 （主要是葡萄糖）。 当你专注阅读、思考、理解复杂内容时，大脑会增加神经元之间的放电和突触活动 → 这会提高局部葡萄糖消耗率。 虽然总能量消耗不会像跑步那样剧烈增加，但 局部能量需求提升会触发饥饿感 。 --- 2. 血糖波动与饥饿信号 学习时大脑需要稳定的血糖供应。 如果中午吃的饭碳水比例较...',
     date: 'DEC 2024',
@@ -1049,7 +1041,7 @@ export const posts: Post[] = [
     slug: 'EDF286F4-B929-4DFF-8C5D-541AEE37BA4E'
   },
   {
-    id: '131',
+    id: '130',
     title: '透过自我修行创建良好的生活。',
     description: '《了凡四训》显示了中国人信仰体系里的另一个层面：透过自我修行创建良好的生活。',
     date: 'DEC 2024',
@@ -1057,7 +1049,7 @@ export const posts: Post[] = [
     slug: '8B4791D5-D906-4F68-B7AC-C6E85EB62642'
   },
   {
-    id: '132',
+    id: '131',
     title: '阅读李笑来《韭菜的自我修养》笔记 AI整理',
     description: '核心结论（一句话版） 交易不是零和， 节奏与周期 胜过一切；降低频次、保留现金流、在熊市学习与建仓、用 反思→规则→执行 把自己从“韭菜心智”里抽离出来。 关键观点地图 1. “韭菜”的本质 不是散户身份，而是：在 非零和 的市场里， 用零和思维 做决策的人。 共性：不读、不要研究、靠情绪与“消息面”，频繁交易又不止损。 2. 宿命从“用钱的那一刻”开始 你需要用钱时，市场常常下跌；牛尾入场、熊尾...',
     date: 'DEC 2024',
@@ -1065,7 +1057,7 @@ export const posts: Post[] = [
     slug: '5C3F41CD-664F-4441-A3A4-BD189EE24135'
   },
   {
-    id: '133',
+    id: '132',
     title: '极简财富的真相',
     description: '极简财富的真相 财富的来源只有一个，竟然是自身 。 财富的唯一正当来源是 生产 。我们一生中赚到的所有钱或财富，从本质上来看，全都是从自己的 时间 里挖掘出来的。 时间 是我们的终极生产资料。 钱 是万物的存储，也是 最灵活的生产资料 。 在这个越来越好的时代里，实现财富的关键路径是：将时间花到 自学、生产、销售、投资 中，以此赚到钱 。 最终目标：花掉时间赚到钱，做更多的事 。 核心概念解释： ...',
     date: 'DEC 2024',
@@ -1073,7 +1065,7 @@ export const posts: Post[] = [
     slug: '18B134E7-AA07-4EA8-8CC5-D97AE131FAA0'
   },
   {
-    id: '134',
+    id: '133',
     title: '要管理的不是时间，而是自己。',
     description: '要管理的不是时间，而是自己。',
     date: 'DEC 2024',
@@ -1081,7 +1073,7 @@ export const posts: Post[] = [
     slug: '05D9E9ED-A5C9-4641-A062-17CB581350E9'
   },
   {
-    id: '135',
+    id: '134',
     title: '实事求是',
     description: '原文 实事求是是个很大的概念，很原则，很宽泛，只是你听多了，不觉得它神道了，不觉得神道并不表示你就真懂了，更不表示你就能操作了，就好像好多人在说实事求是的时候，其实实事求是根本不关他的事，他那样说只是想表达他是明白人。见路不走是“见路非路，即见因果”的意思，跟“见相非相，即见如来”是一个道理。见路不走是实事求是的执行具体，更具提示性，更容易理解和操作。 --- 逐句解析 1. “实事求是是个很大的...',
     date: 'DEC 2024',
@@ -1089,7 +1081,7 @@ export const posts: Post[] = [
     slug: '5E1336D6-E8C2-4ECB-9D26-6DA9A6B7E73D'
   },
   {
-    id: '136',
+    id: '135',
     title: '只有疯狂到认为自己可以改变世界的人才能改变世界。 -- 史蒂夫 乔布斯',
     description: '只有疯狂到认为自己可以改变世界的人才能改变世界。 -- 史蒂夫 乔布斯',
     date: 'DEC 2024',
@@ -1097,7 +1089,7 @@ export const posts: Post[] = [
     slug: '166ECCCA-4D98-4FCD-A17E-30CD09E9EBDC'
   },
   {
-    id: '137',
+    id: '136',
     title: '读 《The Treasury of Michael Saylor: How Bitcoin Powers Cultures, Corporations, and Countries in the 21st Century》 阅读笔记 Ai整理',
     description: '框架（一眼看懂这本书讲什么） 货币二分法：在“后中本聪时代”，钱分成两类——用于支付结算的“货币（Currency）”与用于长期保值的“资本（Capital）”。美元仍是全球储备货币，但它只适合作为“货币”，不适合当“资本”长期保值。 资本层级金字塔：从“最优资本”到“最差资本”的序列——比特币（最佳）、一线城市核心地产、标普指数与60/40组合、强主权债（每年流失7–10%购力）、强势货币、弱主...',
     date: 'DEC 2024',
@@ -1105,7 +1097,7 @@ export const posts: Post[] = [
     slug: '4F167BC7-416B-497C-822A-A5C2D27188CF'
   },
   {
-    id: '138',
+    id: '137',
     title: '人都有好恶，我的好恶就看这点东西。',
     description: '原文 人都有好恶，我的好恶就看这点东西。 --- 逐句解析 1. “人都有好恶。” 叶子农首先承认人性中的自然偏好，这是本能的一部分。 “好恶”不仅指情绪喜憎，也指价值判断的倾向。 这句话破除了“圣人无偏”的幻象——即使觉者，也仍具人性，只是觉知其好恶而不被其控。 → 核心意 ：承认好恶，是认识人性的第一步；不被好恶牵着走，是智慧的开始。 2. “我的好恶就看这点东西。” 这句显得简洁但意味深长，...',
     date: 'DEC 2024',
@@ -1113,7 +1105,7 @@ export const posts: Post[] = [
     slug: 'AF249A09-E3F3-44B0-920E-F19BFA915220'
   },
   {
-    id: '139',
+    id: '138',
     title: '**原文**',
     description: '原文 毛泽东就是得道的，你看看他的矛盾论和实践论就知道中国革命为啥能成功了。毛泽东和邓小平都是见路不走的，都是不拘于经验教条该咋办就咋办的。 --- 逐句解析 1. “毛泽东就是得道的。” 叶子农此处用“得道”来形容毛泽东，并非宗教意义，而是指他 通达事理、顺应因果 。 “得道”即得其规律——能洞察人事与时代的因果逻辑，并据此行事。 → 核心意 ：得道者，不迷信前例，能以因果观把握时局。 2. “...',
     date: 'DEC 2024',
@@ -1121,7 +1113,7 @@ export const posts: Post[] = [
     slug: '2F8677AF-8B52-4718-A2C3-1B5FBB18F575'
   },
   {
-    id: '140',
+    id: '139',
     title: '政治与经济分析',
     description: '> 叶子农说：​“不是按我的意思办，是地方政府按取舍利弊的规律办。简单说，官商早晚要退出市场经济，但是现在还没退。什么叫摸着石头过河？就是探索符合中国社会条件的市场经济，就是允许你深一脚浅一脚地往前摸索。中国正处在改革开放的转型期，历史的规律告诉人们，矫枉必过正，理论上说，这其中的一个‘过’字就是花不完的钱。 一、权力层：不是按“我”的意思，而是按“取舍利弊”的规律 > “不是按我的意思办，是地方...',
     date: 'DEC 2024',
@@ -1129,7 +1121,7 @@ export const posts: Post[] = [
     slug: 'DDCDE681-5B01-466F-9C31-E080049514F7'
   },
   {
-    id: '141',
+    id: '140',
     title: 'DeFi 核心术语完全指南',
     description: 'DeFi 核心术语完全指南 📊 基础概念 流动性资产 Liquid Asset 流动性资产是指可以轻松自由地兑换成现金的资产。 - 定义 ：能够快速转换为现金而不会显著影响其市场价格的资产 - 特点 ： - 交易速度快 - 买卖价差小 - 市场深度充足 - 示例 ：加密货币、股票、国债等 流动性 Liquidity 指流动性资产的可用性，以及该资产兑换成货币的难易程度。 - 重要性 ： - 降低交...',
     date: 'DEC 2024',
@@ -1137,7 +1129,7 @@ export const posts: Post[] = [
     slug: '1A09A6FC-59B3-4C35-969D-750989E4D537'
   },
   {
-    id: '142',
+    id: '141',
     title: '**原文**',
     description: '原文 叶子农在纸上画了两道竖杠，间隔五六米，说：境界是一个表达状态的区间，两边为界，界内为境，不可能揣着这边扔了那边，是本一的。如果不赋予它具体的内容，这个表达工具本身没有任何意义。 叶子农在两道竖杠旁边又画了两道竖杠，两道外杠的间距更大了，有从起初两道竖杠的小区间画出了一个箭头进入大区间，说：出离，在这件事上讲就是不属于雅俗的判断了，进入了一个更大区间的属性，属于平常与不平常的判断。极品女装是啥...',
     date: 'DEC 2024',
@@ -1145,7 +1137,7 @@ export const posts: Post[] = [
     slug: '36E11AD6-C9A5-4666-AE6C-F19892B6C35A'
   },
   {
-    id: '143',
+    id: '142',
     title: '**原文**',
     description: '原文 昨天人们相信共产主义，不是因为马克思主义是真理，是相信了一个许诺。今天不信了也不是因为它不是真理，是没有得到预期的实惠。众生不管你真不真理，他们只需要许诺、兑现。半个世纪的烙印，共产主义一词已经被烙成了一个空洞的符号，连共产党的领袖都说，贫穷不是社会主义。现在你跟东欧的人民说，你们解体的那个不一定是真正意义的社会主义，再跟欧盟的人说，你们组合的那个也不一定不是社会主义。你这不是存心跟人民找别...',
     date: 'DEC 2024',
@@ -1153,7 +1145,7 @@ export const posts: Post[] = [
     slug: 'D75D9B1C-0757-4FDC-8A73-52879EB13889'
   },
   {
-    id: '144',
+    id: '143',
     title: '第1章 Zig介绍 - Zig语言入门',
     description: '第1章 Zig介绍 - Zig语言入门 在这一章中，我想向你介绍Zig的世界。Zig是一门非常年轻的语言，正在积极开发中。因此，它的世界仍然非常原始，有待探索。这本书是我帮助你理解和探索Zig这个激动人心的世界的个人旅程的尝试。 我假设你在阅读本书时已经有一些编程语言的经验，不一定是低级语言。所以，如果你有Python或Javascript的经验，例如，那就足够了。但是，如果你确实有低级语言的经验...',
     date: 'DEC 2024',
@@ -1161,151 +1153,7 @@ export const posts: Post[] = [
     slug: '89B02E0F-E06F-41CB-9996-AFA62EEBFB61'
   },
   {
-    id: '145',
-    title: '第11章 常用数据结构',
-    description: '--- title: \'第11章 常用数据结构\' description: \'掌握 Zig 标准库中的核心数据结构：动态数组 ArrayList 和哈希表 HashMap 。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'zig-...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter11'
-  },
-  {
-    id: '146',
-    title: '第5章 调试 Zig 应用程序',
-    description: '--- title: \'第5章 调试 Zig 应用程序\' description: \'工欲善其事，必先利其器。本章介绍调试 Zig 程序的两种主要策略：打印调试与交互式调试器 GDB/LLDB ，以及如何检查对象类型。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter5'
-  },
-  {
-    id: '147',
-    title: '第15章 实战项目：开发图像滤镜',
-    description: '--- title: \'第15章 实战项目：开发图像滤镜\' description: \'本章我们将综合运用之前学到的文件 I/O、内存管理和 C 互操作知识，实战开发一个能将彩色 PNG 图片转换为灰度图的命令行工具。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter15'
-  },
-  {
-    id: '148',
-    title: '参考文献 – Zig入门',
-    description: '--- title: \'参考文献 – Zig入门\' description: \'Chen, Jenny, and Ruohao Guo. 2022. "Stack and Heap Memory."《C++数据结构与算法导论》。 https://courses.engr.illinois.edu/cs225/fa2022/resources/stack-heap/ ht...\' pubDate: ...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'reference'
-  },
-  {
-    id: '149',
-    title: '第1章 Zig 介绍 - Zig 语言入门',
-    description: '--- title: \'第1章 Zig 介绍 - Zig 语言入门\' description: \'Zig 语言入门：介绍 Zig 的设计哲学、优势，以及如何搭建开发环境并编写第一个 Hello World 程序。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter1'
-  },
-  {
-    id: '150',
-    title: '第14章 C 语言互操作性',
-    description: '--- title: \'第14章 C 语言互操作性\' description: \'Zig 的杀手级特性：无需绑定生成器，直接导入 C 头文件，无缝调用 C 代码，以及如何处理 Zig 与 C 之间的数据类型转换。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter14'
-  },
-  {
-    id: '151',
-    title: '第10章 错误处理与联合类型',
-    description: '--- title: \'第10章 错误处理与联合类型\' description: \'深入理解 Zig 独特的错误处理机制：从错误值、错误集到 try/catch/errdefer 策略，以及联合类型的应用。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'pro...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter10'
-  },
-  {
-    id: '152',
-    title: '第4章 实战项目：Base64 编码器',
-    description: '--- title: \'第4章 实战项目：Base64 编码器\' description: \'通过从零实现 Base64 编码算法，实战演练 Zig 的位操作、内存分配与数组处理技巧。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', ...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter4'
-  },
-  {
-    id: '153',
-    title: '第9章 构建系统 (Build System)',
-    description: '--- title: \'第9章 构建系统 Build System \' description: \'Zig 的杀手锏之一：内置且强大的构建系统。本章将教你如何使用 Zig 编写构建脚本，管理依赖，交叉编译，甚至编译 C/C++ 项目。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tag...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter9'
-  },
-  {
-    id: '154',
-    title: '第8章 单元测试 (Unit Tests)',
-    description: '--- title: \'第8章 单元测试 Unit Tests \' description: \'本章深入探讨 Zig 强大的内置单元测试框架，学习如何编写测试、检测内存泄漏，以及各种断言方法。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programmin...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter8'
-  },
-  {
-    id: '155',
-    title: '第17章 向量与 SIMD',
-    description: '--- title: \'第17章 向量与 SIMD\' description: \'Zig 的底层黑魔法：如何使用 @Vector 和 SIMD 指令来榨干 CPU 的并行计算性能。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'z...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter17'
-  },
-  {
-    id: '156',
-    title: '第3章 内存管理',
-    description: '--- title: \'第3章 内存管理\' description: \'Zig 内存管理的核心指南：深入理解堆栈、分配器 Allocators 及其在 Zig 中的独特设计哲学。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'zi...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter3'
-  },
-  {
-    id: '157',
-    title: '第13章 文件系统与 I/O',
-    description: '--- title: \'第13章 文件系统与 I/O\' description: \'系统编程的基石：深入理解 Zig 的 I/O 模型（Reader/Writer 接口）、缓冲 I/O 的重要性，以及文件与目录的增删改查。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zi...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter13'
-  },
-  {
-    id: '158',
-    title: '第7章 实战项目：从零构建 HTTP 服务器',
-    description: '--- title: \'第7章 实战项目：从零构建 HTTP 服务器\' description: \'不依赖任何 HTTP 库，直接使用 TCP Socket 从零开始构建一个简单的 HTTP 服务器，深入理解网络编程与 HTTP 协议。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' ta...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter7'
-  },
-  {
-    id: '159',
-    title: '第12章 元编程与泛型',
-    description: '--- title: \'第12章 元编程与泛型\' description: \'Zig 的杀手锏特性：深入理解 comptime 关键字，掌握如何在编译时执行代码，并从零构建一个泛型栈数据结构。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programmin...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter12'
-  },
-  {
-    id: '160',
-    title: '第6章 指针与可选类型',
-    description: '--- title: \'第6章 指针与可选类型\' description: \'为构建 HTTP 服务器打下基础：深入理解 Zig 的指针机制（内存地址、解引用、指针运算）与可选类型（空值安全处理）。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'program...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter6'
-  },
-  {
-    id: '161',
-    title: '第16章 线程与并发 (Threads & Concurrency)',
-    description: '--- title: \'第16章 线程与并发 Threads & Concurrency \' description: \'Zig 的多线程编程指南：如何创建线程、使用线程池、通过 Mutex 和 RwLock 进行同步，以及如何避免常见的数据竞争和死锁。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-abou...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter16'
-  },
-  {
-    id: '162',
-    title: '第2章 控制流、结构体与类型',
-    description: '--- title: \'第2章 控制流、结构体与类型\' description: \'深入理解 Zig 的控制流（if, switch, loops）、结构体与面向对象模式、模块系统以及类型转换机制。\' pubDate: \'2025-12-18\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'program...',
-    date: 'DEC 2024',
-    category: 'ZIG 101',
-    slug: 'chapter2'
-  },
-  {
-    id: '163',
+    id: '144',
     title: 'Defer',
     description: '--- title: "推迟执行 defer " description: "Zig 0.15.2 参考文档 - Defer" order: 25 --- defer 语句用于注册一个在当前块退出时执行的语句。它通常用于资源清理，如释放内存、关闭文件等。 基本用法 zig { const file = try std.fs.cwd .openFile "test.txt", .{} ; defer...',
     date: 'DEC 2024',
@@ -1313,7 +1161,7 @@ export const posts: Post[] = [
     slug: 'defer'
   },
   {
-    id: '164',
+    id: '145',
     title: 'Undefined',
     description: '--- title: "未定义 undefined " description: "Zig 0.15.2 参考文档 - undefined" order: 6 --- 在 Zig 中， undefined 是一个可以强制转换为任何类型的值。它表示该值未被指定。 zig var x: i32 = undefined; x = 1; 当你不关心变量的初始值，或者你确定会在使用该变量之前对其进行初始化时...',
     date: 'DEC 2024',
@@ -1321,7 +1169,7 @@ export const posts: Post[] = [
     slug: 'undefined'
   },
   {
-    id: '165',
+    id: '146',
     title: 'Build System',
     description: '--- title: "构建系统 Zig Build System " description: "Zig 0.15.2 参考文档 - Zig 构建系统" order: 47 --- Zig 构建系统是 Zig 语言的一个核心部分。它不再使用传统的 Makefile 或 CMake ，而是使用 Zig 语言本身来编写构建脚本（通常是 build.zig ）。 为什么使用 Zig 构建系统？ 跨平台...',
     date: 'DEC 2024',
@@ -1329,7 +1177,7 @@ export const posts: Post[] = [
     slug: 'build-system'
   },
   {
-    id: '166',
+    id: '147',
     title: 'Zig Test',
     description: '--- title: "Zig 测试 Zig Test " description: "Zig 0.15.2 参考文档 - Zig Test" order: 8 --- Zig 语言内置了单元测试框架。 test 关键字用于创建测试块。 zig const std = @import "std" ; test "expect addOne adds one to 41" { try std.tes...',
     date: 'DEC 2024',
@@ -1337,7 +1185,7 @@ export const posts: Post[] = [
     slug: 'zig-test'
   },
   {
-    id: '167',
+    id: '148',
     title: 'Zen',
     description: '--- title: "Zig 之禅 Zen " description: "Zig 0.15.2 参考文档 - Zig 之禅" order: 58 --- Zig 之禅是指导 Zig 语言设计和开发的核心原则。 传达意图比简洁更重要。 Communicate intent precisely. 边缘情况很重要。 Edge cases matter. 读代码比写代码更重要。 Favor readi...',
     date: 'DEC 2024',
@@ -1345,7 +1193,7 @@ export const posts: Post[] = [
     slug: 'zen'
   },
   {
-    id: '168',
+    id: '149',
     title: 'Assignment',
     description: '--- title: "赋值 Assignment " description: "Zig 0.15.2 参考文档 - 赋值" order: 5 --- 使用 const 关键字将值赋给标识符： zig const x = 1234; 使用 var 关键字来分配变量： zig var y = 5678; const 和 var 声明都必须有值。如果不想立即给变量一个值，可以使用 undefined...',
     date: 'DEC 2024',
@@ -1353,7 +1201,7 @@ export const posts: Post[] = [
     slug: 'assignment'
   },
   {
-    id: '169',
+    id: '150',
     title: 'Hello World',
     description: '--- title: "Hello World" description: "Zig 0.15.2 参考文档 - Hello World" order: 1 --- hello.zig zig const std = @import "std" ; pub fn main !void { try std.fs.File.stdout .writeAll "Hello, World!\n" ; } ...',
     date: 'DEC 2024',
@@ -1361,7 +1209,7 @@ export const posts: Post[] = [
     slug: 'hello-world'
   },
   {
-    id: '170',
+    id: '151',
     title: 'Lifetime Ownership',
     description: '--- title: "生命周期与所有权 Lifetime and Ownership " description: "Zig 0.15.2 参考文档 - 生命周期与所有权" order: 62 --- 与 Rust 等语言不同，Zig 没有内置的所有权（Ownership）或借用检查器（Borrow Checker）机制。在 Zig 中，内存的生命周期和资源的拥有权完全由程序员手动管理。 手动管...',
     date: 'DEC 2024',
@@ -1369,7 +1217,7 @@ export const posts: Post[] = [
     slug: 'lifetime-ownership'
   },
   {
-    id: '171',
+    id: '152',
     title: 'Casting',
     description: '--- title: "类型转换 Casting " description: "Zig 0.15.2 参考文档 - 类型转换和强制转换" order: 32 --- Zig 对类型转换（Casting）和类型强制转换（Type Coercion）有严格的规则，旨在提高类型安全和代码可读性。 类型强制转换 Type Coercion Zig 编译器在某些情况下会执行隐式的类型强制转换，通常是为了方...',
     date: 'DEC 2024',
@@ -1377,7 +1225,7 @@ export const posts: Post[] = [
     slug: 'casting'
   },
   {
-    id: '172',
+    id: '153',
     title: 'While',
     description: '--- title: "While 循环 while " description: "Zig 0.15.2 参考文档 - While 循环" order: 22 --- Zig 的 while 循环由三部分组成：条件、捕获（可选）和继续表达式（可选）。 基本用法 zig var i: usize = 0; while i < 10 { std.debug.print "{} ", .{i} ; i...',
     date: 'DEC 2024',
@@ -1385,7 +1233,7 @@ export const posts: Post[] = [
     slug: 'while'
   },
   {
-    id: '173',
+    id: '154',
     title: 'String Literals',
     description: '--- title: "字符串字面量 String Literals " description: "Zig 0.15.2 参考文档 - 字符串字面量" order: 4 --- 字符串字面量和 Unicode 代码点字面量 String Literals and Unicode Code Point Literals 字符串字面量是指向以 null 结尾的字节数组的常量单项指针（constant...',
     date: 'DEC 2024',
@@ -1393,7 +1241,7 @@ export const posts: Post[] = [
     slug: 'string-literals'
   },
   {
-    id: '174',
+    id: '155',
     title: 'Assembly',
     description: '--- title: "汇编 Assembly " description: "Zig 0.15.2 参考文档 - 汇编" order: 36 --- Zig 允许直接在 Zig 源代码中嵌入汇编代码。这使得可以进行低级优化和硬件交互。 内联汇编 Inline Assembly 使用 asm 关键字可以插入汇编指令。 zig const std = @import "std" ; pub fn a...',
     date: 'DEC 2024',
@@ -1401,7 +1249,7 @@ export const posts: Post[] = [
     slug: 'assembly'
   },
   {
-    id: '175',
+    id: '156',
     title: 'Wasm',
     description: '--- title: "WebAssembly" description: "Zig 0.15.2 参考文档 - WebAssembly" order: 49 --- Zig 将 WebAssembly Wasm 视为一等公民。它可以直接编译为 Wasm 模块，支持 freestanding 和 WASI 环境。 编译为 Wasm 使用 -target wasm32-freestanding 或 ...',
     date: 'DEC 2024',
@@ -1409,7 +1257,7 @@ export const posts: Post[] = [
     slug: 'wasm'
   },
   {
-    id: '176',
+    id: '157',
     title: 'C',
     description: '--- title: "C 语言集成 C " description: "Zig 0.15.2 参考文档 - C 语言集成" order: 48 --- Zig 旨在与 C 语言进行无缝集成。它可以编译 C 代码，链接 C 库，甚至可以直接导入 C 头文件。 导入 C 头文件 使用 @cImport 内置函数可以直接在 Zig 中使用 C 库，而无需手动编写绑定。 zig const c = @c...',
     date: 'DEC 2024',
@@ -1417,7 +1265,7 @@ export const posts: Post[] = [
     slug: 'c'
   },
   {
-    id: '177',
+    id: '158',
     title: 'Zero Bit Types',
     description: '--- title: "零位类型 Zero Bit Types " description: "Zig 0.15.2 参考文档 - 零位类型" order: 33 --- 零位类型是指在内存中不占用任何空间的类型。它们主要用于类型系统和编译时断言。 常见的零位类型 void : 唯一的 void{} 值。 error{} : 空错误集。 enum {} : 空枚举。 struct {} : 空结构...',
     date: 'DEC 2024',
@@ -1425,7 +1273,7 @@ export const posts: Post[] = [
     slug: 'zero-bit-types'
   },
   {
-    id: '178',
+    id: '159',
     title: 'Cli',
     description: '--- title: "命令行接口 CLI " description: "Zig 0.15.2 参考文档 - 命令行接口" order: 63 --- Zig 命令行工具是与 Zig 编译器、构建系统和包管理器交互的主要方式。 核心命令 zig build : 调用 build.zig 文件来构建、测试和运行项目。 zig build-exe : 编译一个或多个 .zig 文件为可执行文件。 z...',
     date: 'DEC 2024',
@@ -1433,7 +1281,7 @@ export const posts: Post[] = [
     slug: 'cli'
   },
   {
-    id: '179',
+    id: '160',
     title: 'Comptime Basics',
     description: '--- title: "编译时基础 Basics At Compile-Time " description: "Zig 0.15.2 参考文档 - 编译时基础" order: 27 --- Zig 允许在编译时运行代码。这是 Zig 元编程能力的核心。 comptime 关键字 使用 comptime 关键字可以强制代码在编译时执行。 zig const x = comptime fibonac...',
     date: 'DEC 2024',
@@ -1441,7 +1289,7 @@ export const posts: Post[] = [
     slug: 'comptime-basics'
   },
   {
-    id: '180',
+    id: '161',
     title: 'Doc Comment Guidance',
     description: '--- title: "文档注释指南 Doc Comment Guidance " description: "Zig 0.15.2 参考文档 - 文档注释指南" order: 52 --- 文档注释是 Zig 代码的重要组成部分。编译器使用它们来生成文档，并在 IDE 中提供提示。 文档注释语法 /// ：用于文档化紧随其后的声明（函数、结构体、变量等）。 //! ：用于文档化当前模块（通常放在...',
     date: 'DEC 2024',
@@ -1449,7 +1297,7 @@ export const posts: Post[] = [
     slug: 'doc-comment-guidance'
   },
   {
-    id: '181',
+    id: '162',
     title: 'Destructuring',
     description: '--- title: "解构 Destructuring " description: "Zig 0.15.2 参考文档 - 解构" order: 7 --- Zig 支持对数组（Arrays）和元组（Tuples）进行解构。 数组解构 zig const std = @import "std" ; const expect = std.testing.expect; test "destruct...',
     date: 'DEC 2024',
@@ -1457,7 +1305,7 @@ export const posts: Post[] = [
     slug: 'destructuring'
   },
   {
-    id: '182',
+    id: '163',
     title: 'Entry Point And Std Options',
     description: '--- title: "入口点与标准库选项 Entry Point & Std Options " description: "Zig 0.15.2 参考文档 - 入口点与标准库选项" order: 45 --- 入口点 Entry Point Zig 程序的标准入口点是 main 函数。 zig pub fn main !void { // 程序的执行从这里开始 } pub : 使函数在模块外部...',
     date: 'DEC 2024',
@@ -1465,7 +1313,7 @@ export const posts: Post[] = [
     slug: 'entry-point-and-std-options'
   },
   {
-    id: '183',
+    id: '164',
     title: 'If',
     description: '--- title: "If 表达式 if " description: "Zig 0.15.2 参考文档 - If 表达式" order: 24 --- Zig 的 if 是一个表达式，这意味着它可以返回一个值。 基本用法 zig if a > b { x += 1; } else { x -= 1; } 作为表达式 zig const x = if a > b 1 else 0; 如果作为表达...',
     date: 'DEC 2024',
@@ -1473,7 +1321,7 @@ export const posts: Post[] = [
     slug: 'if'
   },
   {
-    id: '184',
+    id: '165',
     title: 'Union',
     description: '--- title: "联合 union " description: "Zig 0.15.2 参考文档 - 联合" order: 18 --- 联合定义了一组字段，但在任何给定时间，只能有一个字段处于活动状态。 定义联合 zig const Payload = union { int: i64, float: f64, boolean: bool, }; 初始化 zig var payload ...',
     date: 'DEC 2024',
@@ -1481,7 +1329,7 @@ export const posts: Post[] = [
     slug: 'union'
   },
   {
-    id: '185',
+    id: '166',
     title: 'Comments',
     description: '--- title: "注释 Comments " description: "Zig 0.15.2 参考文档 - 注释" order: 2 --- Zig 支持 3 种类型的注释。普通注释会被忽略，但文档注释和顶级文档注释会被编译器用来生成包文档。生成的文档目前仍处于实验阶段，可以通过以下命令生成： Shell: zig test -femit-docs main.zig 普通注释 Normal...',
     date: 'DEC 2024',
@@ -1489,7 +1337,7 @@ export const posts: Post[] = [
     slug: 'comments'
   },
   {
-    id: '186',
+    id: '167',
     title: 'Struct',
     description: '--- title: "结构体 struct " description: "Zig 0.15.2 参考文档 - 结构体" order: 16 --- 结构体是 Zig 中最常用的复合数据类型。它们允许你将多个相关的值组合在一起。 定义结构体 zig const Point = struct { x: f32, y: f32, }; 初始化 使用结构体名称和字段初始化列表来创建结构体实例。 zig...',
     date: 'DEC 2024',
@@ -1497,7 +1345,7 @@ export const posts: Post[] = [
     slug: 'struct'
   },
   {
-    id: '187',
+    id: '168',
     title: 'Enum',
     description: '--- title: "枚举 enum " description: "Zig 0.15.2 参考文档 - 枚举" order: 17 --- 枚举允许你定义一组命名的常量值。 定义枚举 zig const Color = enum { red, green, blue, }; 使用枚举 zig const c = Color.red; 如果类型已知，可以省略枚举类型名称： zig var c: ...',
     date: 'DEC 2024',
@@ -1505,7 +1353,7 @@ export const posts: Post[] = [
     slug: 'enum'
   },
   {
-    id: '188',
+    id: '169',
     title: 'Noreturn',
     description: '--- title: "不返回 noreturn " description: "Zig 0.15.2 参考文档 - noreturn" order: 28 --- noreturn 是一个原语类型，表示表达式永远不会计算出结果。 以下表达式的类型为 noreturn ： return 语句 break 语句 continue 语句 unreachable 表达式 while true {} 循环...',
     date: 'DEC 2024',
@@ -1513,7 +1361,7 @@ export const posts: Post[] = [
     slug: 'noreturn'
   },
   {
-    id: '189',
+    id: '170',
     title: 'For',
     description: '--- title: "For 循环 for " description: "Zig 0.15.2 参考文档 - For 循环" order: 23 --- Zig 的 for 循环用于遍历数组、切片、元组等可迭代对象。 基本用法 zig const items = _ i32{ 4, 5, 3, 4, 0 }; var sum: i32 = 0; for items |value| { sum ...',
     date: 'DEC 2024',
@@ -1521,7 +1369,7 @@ export const posts: Post[] = [
     slug: 'for'
   },
   {
-    id: '190',
+    id: '171',
     title: 'Errors',
     description: '--- title: "错误处理 Errors " description: "Zig 0.15.2 参考文档 - 错误处理" order: 30 --- Zig 的错误处理旨在明确、健壮且易于使用。它不使用异常（Exceptions），而是将错误视为值。 错误集 Error Set 错误集类似于枚举，但专门用于定义错误。 zig const FileOpenError = error{ Acce...',
     date: 'DEC 2024',
@@ -1529,7 +1377,7 @@ export const posts: Post[] = [
     slug: 'errors'
   },
   {
-    id: '191',
+    id: '172',
     title: 'Optionals',
     description: '--- title: "可选类型 Optionals " description: "Zig 0.15.2 参考文档 - 可选类型" order: 31 --- 可选类型表示一个值可能存在，也可能不存在（即为 null ）。语法是在类型名称前加 ? 。 声明 zig var optional_i32: ?i32 = null; optional_i32 = 1234; null null 是一个特...',
     date: 'DEC 2024',
@@ -1537,7 +1385,7 @@ export const posts: Post[] = [
     slug: 'optionals'
   },
   {
-    id: '192',
+    id: '173',
     title: 'Std Library',
     description: '--- title: "Zig 标准库 Zig Standard Library " description: "Zig 0.15.2 参考文档 - 标准库" order: 59 --- Zig 标准库（ std ）提供了丰富的功能，涵盖了从基本数据结构到文件 I/O、网络、并发等各个方面。它的设计原则是零开销抽象，提供高性能和强大的控制力。 导入标准库 你可以使用 @import "std" 导...',
     date: 'DEC 2024',
@@ -1545,7 +1393,7 @@ export const posts: Post[] = [
     slug: 'std-library'
   },
   {
-    id: '193',
+    id: '174',
     title: 'Default Operations And Ub',
     description: '--- title: "内存管理 Memory Management " description: "Zig 0.15.2 参考文档 - 内存管理" order: 43 --- Zig 是一种系统编程语言，没有垃圾回收器。内存管理是显式的，通常通过分配器（allocator）来完成。 选择一个分配器 Choosing an Allocator 分配器是实现特定接口的对象，用于分配和释放内存。标准库...',
     date: 'DEC 2024',
@@ -1553,7 +1401,7 @@ export const posts: Post[] = [
     slug: 'default-operations-and-ub'
   },
   {
-    id: '194',
+    id: '175',
     title: 'Build Mode',
     description: '--- title: "非法行为 Illegal Behavior " description: "Zig 0.15.2 参考文档 - 非法行为" order: 41 --- 在 Zig 中，“非法行为”指的是程序进入了不应该发生的状态。编译器在不同的构建模式下对这些行为的处理方式不同。 语义 Debug 和 ReleaseSafe 模式 : 非法行为会被立即检测到，并导致运行时 panic （程...',
     date: 'DEC 2024',
@@ -1561,7 +1409,7 @@ export const posts: Post[] = [
     slug: 'build-mode'
   },
   {
-    id: '195',
+    id: '176',
     title: 'Recursion',
     description: '--- title: "递归 Recursion " description: "Zig 0.15.2 参考文档 - 递归" order: 61 --- Zig 语言支持函数递归，即函数调用自身。 基本概念 递归是一种强大的编程技术，通常用于解决可以分解为相同子问题的任务，例如遍历树结构、计算阶乘等。 zig fn factorial n: u64 u64 { if n == 0 { return...',
     date: 'DEC 2024',
@@ -1569,7 +1417,7 @@ export const posts: Post[] = [
     slug: 'recursion'
   },
   {
-    id: '196',
+    id: '177',
     title: 'Blocks',
     description: '--- title: "代码块 Blocks " description: "Zig 0.15.2 参考文档 - 代码块" order: 20 --- 块作为表达式 在 Zig 中，块（用花括号 {} 包围）是表达式。这意味着它们可以返回一个值。 可以使用 break 关键字从块中返回值。如果块是标记的（labeled），可以使用 break :label value 。 zig test "la...',
     date: 'DEC 2024',
@@ -1577,7 +1425,7 @@ export const posts: Post[] = [
     slug: 'blocks'
   },
   {
-    id: '197',
+    id: '178',
     title: 'Operators',
     description: '--- title: "运算符 Operators " description: "Zig 0.15.2 参考文档 - 运算符" order: 11 --- Zig 提供了丰富的运算符来操作数据。 运算符表 Table of Operators | 运算符 | 描述 | | :--- | :--- | | + | 加法 | | - | 减法 / 取反 | | | 乘法 / 指针解引用 | | / ...',
     date: 'DEC 2024',
@@ -1585,7 +1433,7 @@ export const posts: Post[] = [
     slug: 'operators'
   },
   {
-    id: '198',
+    id: '179',
     title: 'Slices',
     description: '--- title: "切片 Slices " description: "Zig 0.15.2 参考文档 - 切片" order: 15 --- 切片是一个包含指针和长度的结构。它可以看作是数组的一个视图。切片是 Zig 中处理数组数据的首选方式，因为它们包含了边界检查信息。 创建切片 可以通过对数组或指针进行切片操作来创建切片。语法是 array start..end 。 zig const ...',
     date: 'DEC 2024',
@@ -1593,7 +1441,7 @@ export const posts: Post[] = [
     slug: 'slices'
   },
   {
-    id: '199',
+    id: '180',
     title: 'Targets',
     description: '--- title: "编译目标 Targets " description: "Zig 0.15.2 参考文档 - 编译目标" order: 50 --- Zig 的一个核心特性是其强大的交叉编译能力。它可以轻松地为不同的架构和操作系统编译代码，而无需安装外部 SDK。 目标三元组 Target Triple Zig 使用“架构-操作系统-ABI”的三元组格式来指定编译目标。 例如： x86_6...',
     date: 'DEC 2024',
@@ -1601,7 +1449,7 @@ export const posts: Post[] = [
     slug: 'targets'
   },
   {
-    id: '200',
+    id: '181',
     title: 'Values',
     description: '--- title: "值 Values " description: "Zig 0.15.2 参考文档 - 值" order: 3 --- 原始类型 Primitive Types | 类型 | C 语言等价物 | 描述 | | :--- | :--- | :--- | | i8 | int8_t | 有符号 8 位整数 | | u8 | uint8_t | 无符号 8 位整数 | | i16 ...',
     date: 'DEC 2024',
@@ -1609,7 +1457,7 @@ export const posts: Post[] = [
     slug: 'values'
   },
   {
-    id: '201',
+    id: '182',
     title: 'Unreachable',
     description: '--- title: "不可达 unreachable " description: "Zig 0.15.2 参考文档 - Unreachable" order: 26 --- unreachable 是一个断言，表示控制流永远不会到达该位置。 语义 Debug / ReleaseSafe : 编译器会发出 panic（运行时安全检查失败）。 ReleaseFast / ReleaseSmall ...',
     date: 'DEC 2024',
@@ -1617,7 +1465,7 @@ export const posts: Post[] = [
     slug: 'unreachable'
   },
   {
-    id: '202',
+    id: '183',
     title: 'Compile And Source',
     description: '--- title: "编译与源文件 Compilation & Source " description: "Zig 0.15.2 参考文档 - 编译变量与源文件结构" order: 44 --- 编译变量 Compile Variables 通过 @import "builtin" 可以访问编译时变量，这些变量提供了关于当前编译环境的信息。 builtin.is_test : 如果代码是作为测...',
     date: 'DEC 2024',
@@ -1625,7 +1473,7 @@ export const posts: Post[] = [
     slug: 'compile-and-source'
   },
   {
-    id: '203',
+    id: '184',
     title: 'Async Functions',
     description: '--- title: "异步函数 Async Functions " description: "Zig 0.15.2 参考文档 - 异步函数" order: 38 --- 注意 ：Zig 的异步功能（async/await）在当前的自举编译器（Stage2）中尚未完全实现或处于暂不可用状态。它是 Zig 语言设计的核心部分，但目前正处于重构中。以下信息基于该功能的预期设计。 Zig 的异步函数是...',
     date: 'DEC 2024',
@@ -1633,7 +1481,7 @@ export const posts: Post[] = [
     slug: 'async-functions'
   },
   {
-    id: '204',
+    id: '185',
     title: 'Atomics',
     description: '--- title: "原子操作 Atomics " description: "Zig 0.15.2 参考文档 - 原子操作" order: 37 --- Zig 通过内置函数提供原子操作，确保在并发环境中安全地访问共享内存，避免数据竞争。 内存顺序 Memory Order 原子操作接受一个 memory_order 参数，用于指定内存访问的顺序约束。常见的内存顺序包括： .Relaxed :...',
     date: 'DEC 2024',
@@ -1641,7 +1489,7 @@ export const posts: Post[] = [
     slug: 'atomics'
   },
   {
-    id: '205',
+    id: '186',
     title: 'Pointers',
     description: '--- title: "指针 Pointers " description: "Zig 0.15.2 参考文档 - 指针" order: 14 --- Zig 中的指针与 C 语言类似，但更加安全和明确。 指针类型 单项指针 T ：指向单个元素的指针。支持解引用语法 ptr. 。 多项指针 T ：指向未知数量元素的指针。类似于 C 指针。支持索引语法 ptr i 和指针算术。 切片 T ：包含指针...',
     date: 'DEC 2024',
@@ -1649,7 +1497,7 @@ export const posts: Post[] = [
     slug: 'pointers'
   },
   {
-    id: '206',
+    id: '187',
     title: 'Index',
     description: '--- title: "简介 Introduction " description: "Zig 0.15.2 参考文档 - 简介" order: 0 --- Zig 是一种通用的编程语言和工具链，旨在维护健壮、优化且可重用的软件。 健壮 Robust ：即使在内存不足等边缘情况下，行为也是正确的。 优化 Optimal ：意味着以程序能表现和运行的最佳方式编写代码。 可重用 Reusable ：代...',
     date: 'DEC 2024',
@@ -1657,15 +1505,7 @@ export const posts: Post[] = [
     slug: 'index'
   },
   {
-    id: '207',
-    title: 'Arrays',
-    description: '--- title: "数组 Arrays " description: "Zig 0.15.2 参考文档 - 数组" order: 12 --- 数组是固定大小的同类元素的集合。 数组字面量 zig const message = 5 u8{ \'h\', \'e\', \'l\', \'l\', \'o\' }; const alternate_message = _ u8{ \'w\', \'o\', \'r\', \'l\'...',
-    date: 'DEC 2024',
-    category: 'ZIG CN',
-    slug: 'arrays'
-  },
-  {
-    id: '208',
+    id: '188',
     title: 'Panic Handler',
     description: '--- title: "Panic 处理器 Panic Handler " description: "Zig 0.15.2 参考文档 - Panic 处理器" order: 46 --- 在 Zig 中， panic 是指程序遇到了一个不可恢复的错误，并且无法以其他方式处理。默认情况下，当发生 panic 时，程序会终止并打印堆栈跟踪。 自定义 Panic 处理器 你可以提供一个自定义的 pan...',
     date: 'DEC 2024',
@@ -1673,7 +1513,7 @@ export const posts: Post[] = [
     slug: 'panic-handler'
   },
   {
-    id: '209',
+    id: '189',
     title: 'Builtin Functions',
     description: '--- title: "内置函数 Builtin Functions " description: "Zig 0.15.2 参考文档 - 内置函数" order: 39 --- Zig 编译器提供了许多内置函数，这些函数以 @ 符号开头。它们提供了对编译器特性的访问，或者执行那些无法仅仅通过标准库代码有效完成的操作。 以下是一些常用的内置函数： 导入与编译 @import path : 导入另一个...',
     date: 'DEC 2024',
@@ -1681,7 +1521,7 @@ export const posts: Post[] = [
     slug: 'builtin-functions'
   },
   {
-    id: '210',
+    id: '190',
     title: 'Vectors',
     description: '--- title: "向量 Vectors " description: "Zig 0.15.2 参考文档 - 向量" order: 13 --- 向量用于 SIMD（单指令多数据）操作。它们类似于数组，但通常由硬件并行处理。 定义向量 使用 @Vector len, Type 内建函数来定义向量类型。 zig const std = @import "std" ; pub fn main vo...',
     date: 'DEC 2024',
@@ -1689,7 +1529,7 @@ export const posts: Post[] = [
     slug: 'vectors'
   },
   {
-    id: '211',
+    id: '191',
     title: 'Comptime',
     description: '--- title: "编译时 comptime " description: "Zig 0.15.2 参考文档 - 编译时概念" order: 35 --- comptime 在 Zig 中指的是在编译时执行的代码。它是 Zig 元编程、代码生成和优化的强大功能。 介绍编译时概念 Introducing the Compile-Time Concept Zig 的 comptime 允许在编译期...',
     date: 'DEC 2024',
@@ -1697,7 +1537,7 @@ export const posts: Post[] = [
     slug: 'comptime'
   },
   {
-    id: '212',
+    id: '192',
     title: 'Functions',
     description: '--- title: "函数 Functions " description: "Zig 0.15.2 参考文档 - 函数" order: 29 --- Zig 中的函数使用 fn 关键字声明。 声明 函数必须指定参数类型和返回类型。 zig fn add a: i32, b: i32 i32 { return a + b; } 如果函数不返回值，返回类型为 void 。 zig fn print...',
     date: 'DEC 2024',
@@ -1705,7 +1545,7 @@ export const posts: Post[] = [
     slug: 'functions'
   },
   {
-    id: '213',
+    id: '193',
     title: 'Floats',
     description: '--- title: "浮点数 Floats " description: "Zig 0.15.2 参考文档 - 浮点数" order: 10 --- Zig 支持以下浮点类型： f16 : 16 位浮点数 IEEE-754-2008 binary16 f32 : 32 位浮点数 IEEE-754-2008 binary32 f64 : 64 位浮点数 IEEE-754-2008 binary64...',
     date: 'DEC 2024',
@@ -1713,7 +1553,7 @@ export const posts: Post[] = [
     slug: 'floats'
   },
   {
-    id: '214',
+    id: '194',
     title: 'Source Encoding',
     description: '--- title: "源文件编码 Source Encoding " description: "Zig 0.15.2 参考文档 - 源文件编码" order: 53 --- Zig 源代码必须是 UTF-8 编码的。 字节顺序标记 BOM 源文件可以选择性地以 UTF-8 BOM Byte Order Mark 开头（ EF BB BF ），但这不是必需的，编译器会忽略它。 行尾 Zig 接受...',
     date: 'DEC 2024',
@@ -1721,7 +1561,7 @@ export const posts: Post[] = [
     slug: 'source-encoding'
   },
   {
-    id: '215',
+    id: '195',
     title: 'Appendix',
     description: '--- title: "附录 Appendix " description: "Zig 0.15.2 参考文档 - 附录" order: 55 --- 本节包含一些额外的参考信息。 容器 Containers /docs/zig-cn/containers 语法 Grammar /docs/zig-cn/grammar Zig 之禅 Zen /docs/zig-cn/zen',
     date: 'DEC 2024',
@@ -1729,7 +1569,7 @@ export const posts: Post[] = [
     slug: 'appendix'
   },
   {
-    id: '216',
+    id: '196',
     title: 'Grammar',
     description: '--- title: "语法 Grammar " description: "Zig 0.15.2 参考文档 - 语法" order: 57 --- Zig 语言的完整语法规范。 由于语法规则较长且复杂，这里仅提供官方文档的链接： Zig Grammar Official Documentation https://ziglang.org/documentation/0.15.2/ Grammar...',
     date: 'DEC 2024',
@@ -1737,7 +1577,7 @@ export const posts: Post[] = [
     slug: 'grammar'
   },
   {
-    id: '217',
+    id: '197',
     title: 'Switch',
     description: '--- title: "Switch 语句 switch " description: "Zig 0.15.2 参考文档 - Switch" order: 21 --- switch 表达式用于根据值的不同情况执行不同的代码分支。它必须是穷尽的（exhaustive），这意味着必须处理所有可能的值。 基本用法 zig const std = @import "std" ; fn test_swit...',
     date: 'DEC 2024',
@@ -1745,7 +1585,7 @@ export const posts: Post[] = [
     slug: 'switch'
   },
   {
-    id: '218',
+    id: '198',
     title: 'Void And Result Location',
     description: '--- title: "Void 与结果位置语义 Void and Result Location Semantics " description: "Zig 0.15.2 参考文档 - Void 和结果位置" order: 34 --- Void void 是一个在内存中不占用任何空间的类型，它只有一个值 void{} 。它通常用于表示一个函数不返回任何有用的数据，或者一个表达式不产生有意义的值...',
     date: 'DEC 2024',
@@ -1753,7 +1593,7 @@ export const posts: Post[] = [
     slug: 'void-and-result-location'
   },
   {
-    id: '219',
+    id: '199',
     title: 'Opaque',
     description: '--- title: "不透明类型 opaque " description: "Zig 0.15.2 参考文档 - 不透明类型" order: 19 --- opaque 类型具有未知的大小和对齐方式。它们主要用于与 C 代码交互，特别是当 C 库使用不透明指针来隐藏实现细节时。 定义不透明类型 zig const Window = opaque {}; 使用 你不能创建不透明类型的实例，只能使...',
     date: 'DEC 2024',
@@ -1761,7 +1601,7 @@ export const posts: Post[] = [
     slug: 'opaque'
   },
   {
-    id: '220',
+    id: '200',
     title: 'Integers',
     description: '--- title: "整数 Integers " description: "Zig 0.15.2 参考文档 - 整数" order: 9 --- Zig 支持任意位宽的整数。除了标准的原语类型（如 i32 、 u64 ）之外，还可以定义任意位宽的整数标识符。 整数类型 标准有符号整数： i8 , i16 , i32 , i64 , i128 标准无符号整数： u8 , u16 , u32 , ...',
     date: 'DEC 2024',
@@ -1769,7 +1609,7 @@ export const posts: Post[] = [
     slug: 'integers'
   },
   {
-    id: '221',
+    id: '201',
     title: 'Containers',
     description: '--- title: "容器 Containers " description: "Zig 0.15.2 参考文档 - 容器" order: 56 --- 在 Zig 中，容器是一种作为命名空间的构造，它可以包含声明。 以下结构都是容器： struct enum union 源文件 本身 这意味着源文件在语义上等同于一个结构体。文件中的顶层声明对应于结构体的成员。 容器内的声明 容器可以包含： 变...',
     date: 'DEC 2024',
@@ -1777,7 +1617,7 @@ export const posts: Post[] = [
     slug: 'containers'
   },
   {
-    id: '222',
+    id: '202',
     title: 'Style Guide',
     description: '--- title: "风格指南 Style Guide " description: "Zig 0.15.2 参考文档 - 风格指南" order: 51 --- Zig 官方提供了一套风格指南，旨在保持代码库的一致性和可读性。 zig fmt 工具可以自动格式化代码以符合这些规则。 缩进 使用 4 个空格进行缩进。不要使用 Tab。 命名规范 函数 Functions : camelCase ...',
     date: 'DEC 2024',
@@ -1785,7 +1625,7 @@ export const posts: Post[] = [
     slug: 'style-guide'
   },
   {
-    id: '223',
+    id: '203',
     title: 'Variables',
     description: '--- title: "变量 Variables " description: "Zig 0.15.2 参考文档 - 变量" order: 60 --- 在 Zig 中，你可以使用 const 声明常量，使用 var 声明变量。 const 常量 const 声明的值必须在编译时或运行时初始化，并且一旦初始化后就不能被修改。 编译器会尝试将 const 值视为编译时已知，以进行优化。 zig co...',
     date: 'DEC 2024',
@@ -1793,7 +1633,7 @@ export const posts: Post[] = [
     slug: 'variables'
   },
   {
-    id: '224',
+    id: '204',
     title: 'Keywords',
     description: '--- title: "关键字参考 Keyword Reference " description: "Zig 0.15.2 参考文档 - 关键字参考" order: 54 --- 以下是 Zig 语言的保留关键字列表： addrspace align allowzero and anyframe anytype asm async await break callconv catch compt...',
     date: 'DEC 2024',
@@ -1801,823 +1641,7 @@ export const posts: Post[] = [
     slug: 'keywords'
   },
   {
-    id: '225',
-    title: '告别转义地狱',
-    description: '--- title: \'Ziglings 笔记 07: 多行字符串的艺术\' description: \'学习 Zig 独特的多行字符串语法 \\ ，理解其背后的设计哲学。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'ziglin...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '07-strings1'
-  },
-  {
-    id: '226',
-    title: '欢迎加入秘密俱乐部 🤫',
-    description: '--- title: \'Ziglings 笔记 77: 字符串的终极真相\' description: \'揭开 Zig 字符串字面量的面纱 const N:0 u8 ，以及如何在丢失类型信息后通过切片语法找回数据。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '77-sentinels1'
-  },
-  {
-    id: '227',
-    title: '戴上巫师帽 🧙‍♂️',
-    description: '--- title: \'Ziglings 笔记 69: 真正的泛型 Generics \' description: \'戴上巫师帽！学习 Zig 如何通过 Comptime 参数实现泛型函数，以及编译器背后的单态化机制。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '69-comptime3'
-  },
-  {
-    id: '228',
-    title: '融会贯通',
-    description: '--- title: \'Ziglings 笔记 20: 阶段性测验 3 - 函数与循环的协奏曲\' description: \'综合运用 For 循环遍历数组与 While 循环执行计算，完成自定义的幂运算逻辑。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'p...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '20-quiz'
-  },
-  {
-    id: '229',
-    title: '牵手的大象',
-    description: '--- title: \'Ziglings 笔记 44: 阶段性测验 5 - 大象与其尾巴\' description: \'通过构建一个循环链表，综合复习结构体、指针引用以及循环遍历的知识。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\',...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '44-quize5'
-  },
-  {
-    id: '230',
-    title: '避免死循环的陷阱',
-    description: '--- title: \'Ziglings 笔记 13: Continue 语句的“安全网”\' description: \'深入理解 Zig 的 while 循环设计：为什么步进表达式能防止死循环？\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programm...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '13-while2'
-  },
-  {
-    id: '231',
-    title: '进击的大象',
-    description: '--- title: \'Ziglings 笔记 49: 阶段性测验 6 - 双向奔赴的大象\' description: \'综合运用结构体方法和可选指针，实现一个支持双向遍历的大象链表 Doubly Linked List 。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'z...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '49-quiz6'
-  },
-  {
-    id: '232',
-    title: '拒绝重复',
-    description: '--- title: \'Ziglings 笔记 28: Defer 与提前返回\' description: \'利用 Defer 简化具有多个返回点的函数，避免代码重复，保持逻辑整洁。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '28-defer1'
-  },
-  {
-    id: '233',
-    title: 'Ziglings 108: 标签化 Switch (Labeled Switch)',
-    description: '--- title: \'Zig 学习笔记：标签化 Switch 与状态机\' description: \'通过 Ziglings 练习 108，学习 Zig 特有的 Labeled Switch 语法，并用它实现一个简洁的状态机。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '108-lable-switch'
-  },
-  {
-    id: '234',
-    title: '要么成功，要么失败',
-    description: '--- title: \'Ziglings 笔记 22: 薛定谔的变量 Error Unions \' description: \'掌握 Zig 的核心特性——错误联合类型 ! ，学习如何定义既能存储值又能存储错误的变量。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '22-error1'
-  },
-  {
-    id: '235',
-    title: '提前的检查',
-    description: '--- title: \'Ziglings 笔记 68: 编译期参数 Comptime Parameters \' description: \'学习如何在 Zig 函数中强制要求参数为编译期常量，以及如何利用这一特性在编译期进行错误检查和逻辑修正。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '68-comptime2'
-  },
-  {
-    id: '236',
-    title: '站在巨人的肩膀上',
-    description: '--- title: \'Ziglings 笔记 94: 借用 C 的数学库\' description: \'Zig 与 C 的深度融合：如何引入 math.h 头文件并调用 fmod 函数来处理浮点数取模运算。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'pr...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '94-c_math'
-  },
-  {
-    id: '237',
-    title: '指针的完全体',
-    description: '--- title: \'Ziglings 笔记 54: 多项指针与类型大一统\' description: \'深入理解 Zig 的多项指针 T，以及如何将其安全地转换为切片，附带 Zig 指针类型速查表。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'progr...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '54-manypointer'
-  },
-  {
-    id: '238',
-    title: '给数字起个名字',
-    description: '--- title: \'Ziglings 笔记 35: 告别魔法数字 Enums \' description: \'学习 Zig 的枚举类型，理解它是如何通过限制取值范围来消除 unreachable 语句的。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'pr...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '35-enum'
-  },
-  {
-    id: '239',
-    title: '薛定谔的盒子',
-    description: '--- title: \'Ziglings 笔记 55: 联合体 Unions - 节省内存的变色龙\' description: \'学习 Zig 的联合体 Union ：如何在同一块内存中存储不同类型的数据，以及如何配合枚举安全地访问它们。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' t...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '55-union'
-  },
-  {
-    id: '240',
-    title: '编程界的试金石',
-    description: '--- title: \'Ziglings 笔记 17: 挑战 FizzBuzz\' description: \'通过经典的 FizzBuzz 面试题，综合复习 Zig 的循环、条件判断与布尔逻辑。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programmi...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '17-quiz'
-  },
-  {
-    id: '241',
-    title: '既是判断，也是赋值',
-    description: '--- title: \'Ziglings 笔记 10: 消失的三元运算符\' description: \'Zig 中没有 ?: 运算符？学习如何使用 If 表达式来优雅地进行条件赋值。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '10-if1'
-  },
-  {
-    id: '242',
-    title: '引入强大的后盾',
-    description: '--- title: \'Ziglings 笔记 02: 拥抱标准库\' description: \'学习如何在 Zig 中引入标准库，并理解为什么导入必须是常量。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/ziglings/02.jpg\' tags: \'zig\', \'programming\', \'ziglings\' --- 引入强大的后盾 ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '02-std'
-  },
-  {
-    id: '243',
-    title: '重复的力量',
-    description: '--- title: \'Ziglings 笔记 11: While 循环基础\' description: \'掌握 Zig 中最基础的循环结构，理解循环条件与终止时机。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'ziglings...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '11-while'
-  },
-  {
-    id: '244',
-    title: '少写代码，多做实事',
-    description: '--- title: \'Ziglings 笔记 57: 自动推导的标签 Inferred Enums \' description: \'学习 Zig 的 union enum 语法：如何省略显式的枚举定义，让编译器自动为联合体生成标签。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tag...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '57-union2'
-  },
-  {
-    id: '245',
-    title: '到此为止',
-    description: '--- title: \'Ziglings 笔记 76: 哨兵 Sentinels - 寻找结束的标志\' description: \'学习 Zig 的哨兵机制：理解定长数组与哨兵指针在遍历逻辑上的根本区别，以及如何使用 std.meta.sentinel 反射获取哨兵值。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placehol...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '76-sentinels'
-  },
-  {
-    id: '246',
-    title: '殊途同归',
-    description: '--- title: \'Ziglings 笔记 82: 元组 Tuples - 披着马甲的结构体\' description: \'深入理解 Zig 元组的本质：它们只是字段名为数字的匿名结构体。学习如何通过内联循环和反射来遍历打印任意元组。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' t...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '82-anonymous_structs2'
-  },
-  {
-    id: '247',
-    title: '强迫症的福音',
-    description: '--- title: \'Ziglings 笔记 99: 格式化大师 Formatting \' description: \'让输出更漂亮：深入解析 Zig 的字符串格式化语法 {d:>3}，学习如何控制数字的对齐、宽度和填充。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'z...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '99-formatting'
-  },
-  {
-    id: '248',
-    title: '分岔路口',
-    description: '--- title: \'Ziglings 笔记 33: If 也能处理错误\' description: \'学习 Zig 中强大的 if error_union 语法，同时捕获成功值和错误负载，并结合 switch 实现精细的错误处理。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tag...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '33-iferror'
-  },
-  {
-    id: '249',
-    title: '它是字符，也是数字',
-    description: '--- title: \'Ziglings 笔记 59: 字符与进制的变身\' description: \'深入理解 Zig 中的数值字面量：二进制、八进制、十六进制以及字符与整数的等价关系。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '59-integers'
-  },
-  {
-    id: '250',
-    title: '严谨的选择',
-    description: '--- title: \'Ziglings 笔记 30: 必须穷尽的 Switch\' description: \'学习 Zig 的 Switch 语句：为什么编译器强迫我们处理每一个可能的值 Exhaustiveness ？\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zi...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '30-switch'
-  },
-  {
-    id: '251',
-    title: '与磁盘对话',
-    description: '--- title: \'Ziglings 笔记 106: 文件系统操作 File System \' description: \'深入 Zig 的 std.fs 模块：学习如何安全地创建目录、打开文件、写入内容，以及如何优雅地处理资源释放。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' t...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '106-file'
-  },
-  {
-    id: '252',
-    title: '一切归我所有',
-    description: '--- title: \'Ziglings 笔记 53: 字符串切片与 Const 安全性\' description: \'深入理解 Zig 字符串的本质：为什么指向字符串字面量的切片必须是 const u8？\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'pro...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '53-slice1'
-  },
-  {
-    id: '253',
-    title: '能返回值的 Switch',
-    description: '--- title: \'Ziglings 笔记 31: Switch 也是表达式\' description: \'学习 Zig 中 Switch 的高级用法：不仅仅是控制流，还可以直接用于赋值和返回值。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'progra...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '31-switch1'
-  },
-  {
-    id: '254',
-    title: '错误不是异常',
-    description: '--- title: \'Ziglings 笔记 21: 错误即是值\' description: \'初探 Zig 独特的错误处理机制：如何定义错误集 Error Set 以及像普通值一样传递和比较错误。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'progra...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '21-error'
-  },
-  {
-    id: '255',
-    title: '找回丢失的输出',
-    description: '--- title: \'Ziglings 笔记 34: 阶段性测验 4 - 修复打印逻辑\' description: \'综合复习标准输出 Stdout 的正确获取方式以及 Writer 接口的使用，解决 Quiz 4 中的语法错误。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '34-quize4'
-  },
-  {
-    id: '256',
-    title: '揭开字符串的面纱',
-    description: '--- title: \'Ziglings 笔记 06: 字符串就是数组\' description: \'深入理解 Zig 字符串的本质：它们只是字节数组，以及如何对其进行拼接和格式化。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '06-string'
-  },
-  {
-    id: '257',
-    title: '古老公式的现代引擎',
-    description: '--- title: \'Ziglings 笔记 105: 并行计算 π Parallel Math \' description: \'穿越时空的合作：使用 Zig 的多线程技术加速 17 世纪的莱布尼茨公式，体验无锁并行算法的设计之美。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tag...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '105-thread1'
-  },
-  {
-    id: '258',
-    title: '传递数据',
-    description: '--- title: \'Ziglings 笔记 19: 函数参数与数学运算\' description: \'学习如何向 Zig 函数传递参数，并使用 std.math.pow 计算幂次方。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\',...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '19-function1'
-  },
-  {
-    id: '259',
-    title: '跳出无限循环',
-    description: '--- title: \'Ziglings 笔记 14: 紧急制动 Break \' description: \'深入理解 Break 语句如何终止循环，以及它与步进表达式的特殊交互规则。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '14-while3'
-  },
-  {
-    id: '260',
-    title: '薛定谔的值',
-    description: '--- title: \'Ziglings 笔记 45: 面对虚无 Optionals \' description: \'学习 Zig 的可选类型 ?T，理解 null 的概念，以及如何使用 orelse 提供默认值。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '45-optional'
-  },
-  {
-    id: '261',
-    title: '优雅的“甩锅”',
-    description: '--- title: \'Ziglings 笔记 25: 优雅的 Try\' description: \'掌握 Zig 中最常用的错误处理快捷键 try，学习如何简洁地将错误向上传播。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'z...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '25-error4'
-  },
-  {
-    id: '262',
-    title: '这次是真的',
-    description: '--- title: \'Ziglings 笔记 26: 真正的 Hello World\' description: \'从 debug.print 毕业！学习如何处理标准输出 stdout 的错误，以及理解 main 函数的 !void 返回类型。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jp...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '26-hello2'
-  },
-  {
-    id: '263',
-    title: '类型工厂',
-    description: '--- title: \'Ziglings 笔记 80: 匿名结构体 Anonymous Structs \' description: \'深入理解 Zig 的泛型数据结构：如何通过函数返回匿名结构体来创建 Circle i32 和 Circle f32 。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-abou...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '80-anonymous_structs'
-  },
-  {
-    id: '264',
-    title: '编译器的草稿纸',
-    description: '--- title: \'Ziglings 笔记 67: 穿越时空的变量 Comptime Var \' description: \'学习 Zig 的 comptime var：如何在编译期间修改变量，利用它来动态生成静态数组类型。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '67-comptime1'
-  },
-  {
-    id: '265',
-    title: '能够直通 CPU 的函数',
-    description: '--- title: \'Ziglings 笔记 64: 编译器的秘密武器 Builtins \' description: \'探索 Zig 的内置函数 @builtins ，学习如何使用 @addWithOverflow 处理算术溢出，以及使用 @bitReverse 进行位操作。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-pla...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '64-buildin'
-  },
-  {
-    id: '266',
-    title: '名字的越狱',
-    description: '--- title: \'Ziglings 笔记 79: 突破命名限制 @"" \' description: \'学习 Zig 的标识符引用语法：如何定义包含空格、特殊字符甚至关键字的变量名，以及为什么我们需要这个功能。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\',...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '79-quote_identifier'
-  },
-  {
-    id: '267',
-    title: '遍历的艺术',
-    description: '--- title: \'Ziglings 笔记 15: 现代化的 For 循环\' description: \'告别 C 风格的索引计数，学习 Zig 如何优雅地遍历数组与集合。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'zig...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '15-for'
-  },
-  {
-    id: '268',
-    title: '一次性的快递包',
-    description: '--- title: \'Ziglings 笔记 81: 匿名结构体字面量 Anonymous Struct Literals \' description: \'学会偷懒：使用 .{ ... } 语法快速创建一次性数据包，配合 anytype 实现灵活的参数传递。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-a...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '81-anonymous_structs1'
-  },
-  {
-    id: '269',
-    title: '穿越森林',
-    description: '--- title: \'Ziglings 笔记 58: 阶段性测验 7 - 隐士的地图 图算法 \' description: \'综合实战：使用 Zig 的结构体、指针、联合体和可选类型，实现一个基于广度优先搜索 BFS 的最短路径查找器。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' t...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '58-quiz7'
-  },
-  {
-    id: '270',
-    title: '关于“空”的哲学',
-    description: '--- title: \'Ziglings 笔记 50: “无”的四种写法\' description: \'深入辨析 Zig 中 undefined, null, error 和 void 的区别：它们都表示“没有”，但语境完全不同。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags:...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '50-no-value'
-  },
-  {
-    id: '271',
-    title: '相信我，它有结尾',
-    description: '--- title: \'Ziglings 笔记 78: 找回丢失的哨兵 @ptrCast \' description: \'学习 Zig 的 @ptrCast 内置函数：如何在指针丢失了类型信息后，强制将其转换回带哨兵的指针 :0 u8 。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' t...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '78-sentinels2'
-  },
-  {
-    id: '272',
-    title: '摆脱长度的束缚',
-    description: '--- title: \'Ziglings 笔记 52: 切片 Slices - 数组的万能视图\' description: \'学习 Zig 中最重要的特性之一——切片。它是如何解决定长数组传递参数的痛点，以及它底层的指针+长度结构。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '52-slice'
-  },
-  {
-    id: '273',
-    title: '浩瀚的数字宇宙',
-    description: '--- title: \'Ziglings 笔记 60: 浮点数的奥秘\' description: \'探索 Zig 的浮点数系统 IEEE-754 ，学习科学计数法的使用以及如何控制打印输出的精度。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programm...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '60-float'
-  },
-  {
-    id: '274',
-    title: '相信我，这不可能发生',
-    description: '--- title: \'Ziglings 笔记 32: 不可能到达的任务 Unreachable \' description: \'掌握 Zig 的 unreachable 关键字：如何处理理论上不可能发生的代码分支，以及它对安全性和性能的影响。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '32-unreachable'
-  },
-  {
-    id: '275',
-    title: '切碎它！',
-    description: '--- title: \'Ziglings 笔记 103: 文本分词 Tokenization \' description: \'学习使用 std.mem.tokenizeAny 来解析文本：如何处理复杂的字符串分割，以及理解 Zig 迭代器的工作原理。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about....',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '103-tokenization'
-  },
-  {
-    id: '276',
-    title: '自带说明书的盒子',
-    description: '--- title: \'Ziglings 笔记 56: 完美的结合 Tagged Unions \' description: \'学习 Zig 的 Tagged Unions：如何将枚举与联合体绑定，实现类型安全的变体数据处理。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '56-union1'
-  },
-  {
-    id: '277',
-    title: '在编译时预知未来',
-    description: '--- title: \'Ziglings 笔记 73: 编译期守卫 Comptime Blocks \' description: \'学习如何使用 comptime 块和参数来强制执行编译期检查，杜绝运行时的数组越界错误。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '73-comptime7'
-  },
-  {
-    id: '278',
-    title: '我，编译器',
-    description: '--- title: \'Ziglings 笔记 72: 编译期解析器 Inline While \' description: \'Ziglings 基础篇最终章！使用 inline while 在编译期解析字符串指令，并生成无循环的高效机器码。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '72-comptime6'
-  },
-  {
-    id: '279',
-    title: '指针的“套娃”',
-    description: '--- title: \'Ziglings 笔记 41: 指针的双重可变性\' description: \'深入剖析 Zig 指针的复杂性：如何区分“改变指针指向”与“改变指针指向的值”。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '41-pointer2'
-  },
-  {
-    id: '280',
-    title: '告别箭头操作符',
-    description: '--- title: \'Ziglings 笔记 43: 结构体指针与自动解引用\' description: \'深入理解 Zig 如何优雅地处理结构体指针，告别 C 语言的箭头操作符 -> ，并探索默认值与枚举推导。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '43-pointer4'
-  },
-  {
-    id: '281',
-    title: '只要你会叫，就是好鸭子',
-    description: '--- title: \'Ziglings 笔记 70: 编译期鸭子类型 Duck Typing \' description: \'利用 Zig 的 anytype 和 @hasDecl 实现编译期接口检查：既有动态语言的灵活，又有静态语言的安全。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '70-comptime4'
-  },
-  {
-    id: '282',
-    title: '离开前的最后这就是',
-    description: '--- title: \'Ziglings 笔记 27: 让代码“迟到”的 Defer\' description: \'学习 Zig 的核心特性 defer：如何在作用域结束时自动执行代码，以及它对资源管理的意义。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'p...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '27-defer'
-  },
-  {
-    id: '283',
-    title: '进化的 While 循环',
-    description: '--- title: \'Ziglings 笔记 12: While 循环的高级形态\' description: \'学习 Zig 中独特的 While 循环步进表达式，理解它是如何替代 C 风格 For 循环的。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'p...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '12-while1'
-  },
-  {
-    id: '284',
-    title: '开启 Zig 之旅',
-    description: '--- title: \'Ziglings 笔记 01: 修复第一个 Hello World\' description: \'通过 Ziglings 练习理解 Zig 的函数可见性与程序入口。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/ziglings/01.jpg\' tags: \'zig\', \'programming\', \'ziglings...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '01-print-hello-world'
-  },
-  {
-    id: '285',
-    title: 'Ziglings 107: 读取文件 (Files 2)',
-    description: '--- title: \'Zig 学习笔记：文件读取与切片操作\' description: \'通过 Ziglings 练习 107，学习如何在 Zig 中打开文件、读取内容以及使用切片处理缓冲区。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programmi...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '107-file1'
-  },
-  {
-    id: '286',
-    title: '告别隐式转换',
-    description: '--- title: \'Ziglings 笔记 03: 变量、常量与基本类型\' description: \'深入理解 Zig 的 const/var 声明以及整数类型的精确控制。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/ziglings/03.jpg\' tags: \'zig\', \'programming\', \'ziglings\' ---...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '03-assigment'
-  },
-  {
-    id: '287',
-    title: '阶段性测验',
-    description: '--- title: \'Ziglings 笔记 08: 综合小测验 Quiz Time! \' description: \'通过一个字符拼接游戏，复习变量可变性、数组索引和 undefined 的用法。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'progra...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '08-quize'
-  },
-  {
-    id: '288',
-    title: '永远要有 B 计划',
-    description: '--- title: \'Ziglings 笔记 23: 使用 Catch 提供默认值\' description: \'学习如何使用 catch 关键字来处理 Zig 的错误联合类型，为可能失败的操作提供后备方案。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'p...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '23-error2'
-  },
-  {
-    id: '289',
-    title: 'Ziglings 110: 位操作大考 (Quiz 9)',
-    description: '--- title: \'Zig 学习笔记：位操作与嵌入式编程基础\' description: \'通过 Ziglings 练习 110，模拟微控制器编程，掌握 Zig 中的位掩码、XOR 翻转、OR 置位以及 AND 清除操作。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '110-quiz9'
-  },
-  {
-    id: '290',
-    title: '拒绝重复劳动',
-    description: '--- title: \'Ziglings 笔记 71: 编译期循环 Inline For \' description: \'学习 Zig 的 inline for 语法：如何在编译期展开循环，结合反射实现自动化的代码生成。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '71-comptime5'
-  },
-  {
-    id: '291',
-    title: '队伍集结',
-    description: '--- title: \'Ziglings 笔记 38: 结构体数组与 undefined 之谜\' description: \'学习如何在数组中存储结构体，并深入理解 Zig 在 Debug 模式下如何通过填充 0xAA 来帮助我们发现未初始化内存的错误。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-abou...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '38-struct1'
-  },
-  {
-    id: '292',
-    title: '26 个开关',
-    description: '--- title: \'Ziglings 笔记 98: 位运算实战 - 全字母句判断\' description: \'如何用一个整数代替布尔数组？深入解析利用位掩码 Bitmask 高效判断 Pangram 全字母句 的算法。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'z...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '98-bit_op1'
-  },
-  {
-    id: '293',
-    title: '超级变变变',
-    description: '--- title: \'Ziglings 笔记 83: 匿名列表 Anonymous Lists \' description: \'学会变形：同一个 .{ ... } 语法，既可以是元组，也可以是数组。关键在于你将它赋值给什么类型。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags:...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '83-anonymous_lists'
-  },
-  {
-    id: '294',
-    title: '我只看看，不进去',
-    description: '--- title: \'Ziglings 笔记 40: 只读指针 const \' description: \'深入理解 Zig 指针类型：为什么 u8 和 const u8 是完全不同的类型，以及如何创建数据的只读视图。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '40-pointer1'
-  },
-  {
-    id: '295',
-    title: '终于等到你：Range For',
-    description: '--- title: \'Ziglings 笔记 95: 现代化的 For 循环\' description: \'告别繁琐的 while 计数器，学习 Zig 0.11 引入的 for 循环范围语法 Range Syntax ，让数值遍历变得极其优雅。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.j...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '95-for3'
-  },
-  {
-    id: '296',
-    title: '火力全开：多线程',
-    description: '--- title: \'Ziglings 笔记 104: 多线程 Multithreading \' description: \'真正的并行计算：学习如何使用 std.Thread.spawn 启动系统线程，并使用 join 等待任务完成。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' t...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '104-thread'
-  },
-  {
-    id: '297',
-    title: '循环的返回值',
-    description: '--- title: \'Ziglings 笔记 62: 循环也是表达式\' description: \'学习 Zig 的循环表达式：如何使用 break 和 else 从 for/while 循环中直接返回值，避免使用中间变量。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '62-loop_expression'
-  },
-  {
-    id: '298',
-    title: '像机器一样思考',
-    description: '--- title: \'Ziglings 笔记 101: 并行遍历与数据导向设计 SoA \' description: \'深入理解 Zig 的多对象 for 循环与无限范围语法，并探讨系统编程中的核心概念：数据导向设计 AoS vs SoA 。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '101-for5'
-  },
-  {
-    id: '299',
-    title: '代码的守护者',
-    description: '--- title: \'Ziglings 笔记 102: 第一道防线 Built-in Testing \' description: \'深入了解 Zig 的内置测试框架：如何在源码中直接编写测试用例，以及使用 expect, expectEqual 和 expectError 守护代码质量。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/bl...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '102-testing'
-  },
-  {
-    id: '300',
-    title: '不是取代，是融合',
-    description: '--- title: \'Ziglings 笔记 93: 拥抱 C 语言 C Interop \' description: \'Zig 的杀手级特性：使用 @cImport 直接导入 C 头文件，链接 libc，并在 Zig 代码中无缝调用 C 函数。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.j...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '93-hello_c'
-  },
-  {
-    id: '301',
-    title: '里程碑：100 题达成！🎉',
-    description: '--- title: \'Ziglings 笔记 100: 百题达成！并行遍历 Multi-object For Loops \' description: \'庆祝 Ziglings 练习突破 100 大关！学习 Zig 优雅的并行遍历语法：如何在 for 循环中像拉拉链一样同时处理多个数组。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blo...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '100-for4'
-  },
-  {
-    id: '302',
-    title: 'Ziglings 109: 向量 (Vectors)',
-    description: '--- title: \'Zig 学习笔记：向量 @Vector 与 SIMD 编程\' description: \'通过 Ziglings 练习 109，探索 Zig 强大的 SIMD 支持，学习如何使用向量 @Vector 替代循环来提升性能。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '109-vectors'
-  },
-  {
-    id: '303',
-    title: '数据的容器',
-    description: '--- title: \'Ziglings 笔记 37: 万物皆可结构体 Structs \' description: \'学习 Zig 中最核心的数据组织方式——结构体。如何定义、初始化以及修改结构体成员。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'prog...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '37-struct'
-  },
-  {
-    id: '304',
-    title: '指哪打哪',
-    description: '--- title: \'Ziglings 笔记 63: 带标签的循环 Labeled Loops \' description: \'学习 Zig 的标签语法：如何在嵌套循环中精准控制 break 和 continue 的跳转目标，以及如何从代码块中返回值。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-abou...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '63-lables'
-  },
-  {
-    id: '305',
-    title: '拿到了修改权限',
-    description: '--- title: \'Ziglings 笔记 42: 引用传递 Pass by Reference \' description: \'掌握 Zig 指针的核心用法：通过传递地址，让函数拥有修改外部变量和数组元素的能力。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '42-pointer3'
-  },
-  {
-    id: '306',
-    title: '谁说 Zig 没有接口？',
-    description: '--- title: \'Ziglings 笔记 92: 编译期多态 Inline Else \' description: \'学习 Zig 的 inline else 语法：如何利用 Tagged Union 和编译期展开，实现类似接口（Interface）的多态行为。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placehold...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '92-interfaces'
-  },
-  {
-    id: '307',
-    title: '严格的守门人',
-    description: '--- title: \'Ziglings 笔记 09: 拒绝模棱两可的 If\' description: \'理解 Zig 中 if 语句的严格性：为什么数字不能直接作为条件？\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'zigl...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '09-if'
-  },
-  {
-    id: '308',
-    title: '颜色的数字',
-    description: '--- title: \'Ziglings 笔记 36: 有数值的枚举与格式化\' description: \'学习如何给 Zig 枚举指定底层类型和数值，以及如何使用高级格式化字符串输出十六进制颜色代码。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'progr...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '36-enum1'
-  },
-  {
-    id: '309',
-    title: '内存的地图',
-    description: '--- title: \'Ziglings 笔记 39: 指针初探\' description: \'揭开系统编程中指针的神秘面纱，掌握 Zig 独特的后缀解引用语法 . 。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'zigling...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '39-pointer'
-  },
-  {
-    id: '310',
-    title: '我在哪里？',
-    description: '--- title: \'Ziglings 笔记 16: For 循环中的索引捕获\' description: \'学习如何在 Zig 的 For 循环中同时获取元素的值和索引，并实现简单的二进制转换。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'program...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '16-for1'
-  },
-  {
-    id: '311',
-    title: '程序员的魔法棒',
-    description: '--- title: \'Ziglings 笔记 75: 阶段性测验 8 - 元编程魔法\' description: \'重构隐士地图：利用 Zig 的编译期函数和 @field 反射，消除重复代码，体验真正的元编程威力。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '75-quiz8'
-  },
-  {
-    id: '312',
-    title: '能够“看见”比特',
-    description: '--- title: \'Ziglings 笔记 97: 位运算的魔法 XOR Swap \' description: \'深入理解 Zig 的位操作能力，并解析经典的 XOR 交换算法：如何在不使用临时变量的情况下交换两个数？\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'z...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '97-bit_op'
-  },
-  {
-    id: '313',
-    title: '两个世界',
-    description: '--- title: \'Ziglings 笔记 66: 编译期与运行时 Comptime vs Runtime \' description: \'推开 Zig 元编程的大门：理解 comptime_int 字面量与运行时内存分配变量之间的本质区别。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jp...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '66-comptime'
-  },
-  {
-    id: '314',
-    title: '不是所有的错误都一样',
-    description: '--- title: \'Ziglings 笔记 24: 精准捕获与错误传递\' description: \'深入理解 Zig 的 catch |err| 语法，学习如何针对特定的错误进行处理，并将无法处理的错误向上传递。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '24-error3'
-  },
-  {
-    id: '315',
-    title: '代码里的镜子',
-    description: '--- title: \'Ziglings 笔记 65: 类型内省 Introspection \' description: \'探索 Zig 的编译期反射能力：使用 @This, @TypeOf 和 @typeInfo 来像外科医生一样剖析数据类型。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.j...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '65-buildin1'
-  },
-  {
-    id: '316',
-    title: '没必要重复说',
-    description: '--- title: \'Ziglings 笔记 74: 此时无声胜有声 Implicit Comptime \' description: \'学会做减法：理解 Zig 中哪些地方是隐式 Comptime 的，避免滥用关键字，编写更干净的代码。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' ...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '74-comptime8'
-  },
-  {
-    id: '317',
-    title: '数组：有序的集合',
-    description: '--- title: \'Ziglings 笔记 04: 数组的基础操作\' description: \'学习 Zig 中数组的声明、自动长度推导以及读写操作。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'ziglings\' ---...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '04-array'
-  },
-  {
-    id: '318',
-    title: '它是方法，也是函数',
-    description: '--- title: \'Ziglings 笔记 47: 结构体的方法 Methods \' description: \'Zig 没有类，但有方法。学习如何将函数附加到结构体上，实现面向对象风格的调用。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'program...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '47-method'
-  },
-  {
-    id: '319',
-    title: '寻找出口',
-    description: '--- title: \'Ziglings 笔记 46: 优雅的链表终点\' description: \'深入理解 Zig 的 Optional 类型在数据结构中的应用，以及如何利用 orelse break 实现简洁的循环控制。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '46-optional1'
-  },
-  {
-    id: '320',
-    title: '熔岩核心之旅',
-    description: '--- title: \'Ziglings 笔记 51: 深入内存核心\' description: \'一次关于栈、堆和数据段的深度游。理解值拷贝与指针引用的本质区别，以及 Zig 函数参数的不可变性规则。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'progr...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '51-values'
-  },
-  {
-    id: '321',
-    title: '严格中的灵活性',
-    description: '--- title: \'Ziglings 笔记 61: 类型转换的魔法\' description: \'深入理解 Zig 的自动类型转换 Coercion 规则，看看如何将一个普通指针变成“可选的数组指针”。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'pro...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '61-coercoins'
-  },
-  {
-    id: '322',
-    title: '只有出错时才执行',
-    description: '--- title: \'Ziglings 笔记 29: 失败时的后悔药 errdefer \' description: \'掌握 Zig 的 errdefer 关键字：如何只在发生错误时执行清理代码或打印日志。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'pr...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '29-errderfer'
-  },
-  {
-    id: '323',
-    title: '像说话一样写代码',
-    description: '--- title: \'Ziglings 笔记 48: 更多的方法 Methods II \' description: \'深入实践 Zig 结构体方法。学习如何通过 helper 方法封装底层逻辑，实现更语义化、更易读的链表遍历。\' pubDate: \'2025-12-10\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags:...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '48-method1'
-  },
-  {
-    id: '324',
-    title: '向操作系统借地盘',
-    description: '--- title: \'Ziglings 笔记 96: 内存分配器 Allocators \' description: \'跨越 Zig 的分水岭：学习如何使用 ArenaAllocator 在运行时动态分配内存，理解显式内存管理的哲学。\' pubDate: \'2025-12-11\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' ta...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '96-memory_allocators'
-  },
-  {
-    id: '325',
-    title: '搭建积木',
-    description: '--- title: \'Ziglings 笔记 18: 函数初体验\' description: \'学习 Zig 函数的基本定义语法，以及理解为什么有的函数需要 pub 而有的不需要。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '18-function'
-  },
-  {
-    id: '326',
-    title: '数组的加法与乘法',
-    description: '--- title: \'Ziglings 笔记 05: 数组的魔法操作\' description: \'掌握 Zig 独有的数组连接符 ++ 和重复符 ，以及它们背后的编译期原理。\' pubDate: \'2025-12-09\' heroImage: \'../../../assets/blog-placeholder-about.jpg\' tags: \'zig\', \'programming\', \'zi...',
-    date: 'DEC 2024',
-    category: 'ZIGLINGS',
-    slug: '05-array1'
-  },
-  {
-    id: '327',
+    id: '205',
     title: 'Conclusion',
     description: '--- title: "总结" description: "总结 - by Karl Seguin; ZigCC" pubDate: 2024-01-11T00:00:00 tags: "learn-zig" order: 11 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/conclusion ，原文地址：<https://ziglang.cc/l...',
     date: 'DEC 2024',
@@ -2625,7 +1649,7 @@ export const posts: Post[] = [
     slug: 'conclusion'
   },
   {
-    id: '328',
+    id: '206',
     title: 'Generics',
     description: '--- title: "泛型" description: "泛型 - by Karl Seguin; ZigCC" pubDate: 2024-01-09T00:00:00 tags: "learn-zig" order: 9 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/generics ，原文地址：<https://ziglang.cc/lear...',
     date: 'DEC 2024',
@@ -2633,7 +1657,7 @@ export const posts: Post[] = [
     slug: 'generics'
   },
   {
-    id: '329',
+    id: '207',
     title: '悬空指针 Dangling Pointers',
     description: '--- title: "实战" description: "实战 - by Karl Seguin; ZigCC" pubDate: 2024-01-10T00:00:00 tags: "learn-zig" order: 10 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/coding-in-zig ，原文地址：<https://ziglang.c...',
     date: 'DEC 2024',
@@ -2641,7 +1665,7 @@ export const posts: Post[] = [
     slug: 'coding-in-zig'
   },
   {
-    id: '330',
+    id: '208',
     title: '栈帧',
     description: '--- title: "栈内存" description: "栈内存 - by Karl Seguin; ZigCC" pubDate: 2024-01-07T00:00:00 tags: "learn-zig" order: 7 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/stack-memory ，原文地址：<https://ziglang.c...',
     date: 'DEC 2024',
@@ -2649,7 +1673,7 @@ export const posts: Post[] = [
     slug: 'stack-memory'
   },
   {
-    id: '331',
+    id: '209',
     title: '控制流',
     description: '--- title: "语言概述 - 第二部分" description: "语言概述 - 第二部分 - by Karl Seguin; ZigCC" pubDate: 2024-01-04T00:00:00 tags: "learn-zig" order: 4 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/language-overview-2 ，...',
     date: 'DEC 2024',
@@ -2657,7 +1681,7 @@ export const posts: Post[] = [
     slug: 'language-overview-2'
   },
   {
-    id: '332',
+    id: '210',
     title: '更新插件到最新版',
     description: '--- title: "安装 Zig" description: "安装 Zig - by Karl Seguin; ZigCC" pubDate: 2024-01-02T00:00:00 tags: "learn-zig" order: 2 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/installing-zig ，原文地址：<https://z...',
     date: 'DEC 2024',
@@ -2665,7 +1689,7 @@ export const posts: Post[] = [
     slug: 'installing-zig'
   },
   {
-    id: '333',
+    id: '211',
     title: '方法',
     description: '--- title: "指针" description: "指针 - by Karl Seguin; ZigCC" pubDate: 2024-01-06T00:00:00 tags: "learn-zig" order: 6 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/pointers ，原文地址：<https://ziglang.cc/lear...',
     date: 'DEC 2024',
@@ -2673,7 +1697,7 @@ export const posts: Post[] = [
     slug: 'pointers'
   },
   {
-    id: '334',
+    id: '212',
     title: '《学习 Zig》 目录',
     description: '--- title: "Learning Zig 中文翻译" description: "Learning Zig 中文翻译 - by Karl Seguin; ZigCC" pubDate: 2024-01-01T00:00:00 tags: "learn-zig" order: 0 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/ ，原文地址：<h...',
     date: 'DEC 2024',
@@ -2681,7 +1705,7 @@ export const posts: Post[] = [
     slug: 'index'
   },
   {
-    id: '335',
+    id: '213',
     title: '模块引用',
     description: '--- title: "语言概述 - 第一部分" description: "语言概述 - 第一部分 - by Karl Seguin; ZigCC" pubDate: 2024-01-03T00:00:00 tags: "learn-zig" order: 3 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/language-overview-1 ，...',
     date: 'DEC 2024',
@@ -2689,7 +1713,7 @@ export const posts: Post[] = [
     slug: 'language-overview-1'
   },
   {
-    id: '336',
+    id: '214',
     title: 'Preface',
     description: '--- title: "前言" description: "前言 - by Karl Seguin; ZigCC" pubDate: 2024-01-01T00:00:00 tags: "learn-zig" order: 1 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/preface ，原文地址：<https://ziglang.cc/learn...',
     date: 'DEC 2024',
@@ -2697,7 +1721,7 @@ export const posts: Post[] = [
     slug: 'preface'
   },
   {
-    id: '337',
+    id: '215',
     title: '未使用变量 Unused Variable',
     description: '--- title: "编码风格" description: "编码风格 - by Karl Seguin; ZigCC" pubDate: 2024-01-05T00:00:00 tags: "learn-zig" order: 5 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/style-guide ，原文地址：<https://ziglang....',
     date: 'DEC 2024',
@@ -2705,17 +1729,73 @@ export const posts: Post[] = [
     slug: 'style-guide'
   },
   {
-    id: '338',
+    id: '216',
     title: '堆',
     description: '--- title: "堆内存" description: "堆内存 - by Karl Seguin; ZigCC" pubDate: 2024-01-08T00:00:00 tags: "learn-zig" order: 8 --- > 本文档转载自 Zig 中文社区 https://ziglang.cc/learn/heap-memory ，原文地址：<https://ziglang.cc...',
     date: 'DEC 2024',
     category: 'LEARN',
     slug: 'heap-memory'
   },
+  {
+    id: '217',
+    title: 'NautilusTrader 安装指南',
+    description: 'NautilusTrader 安装指南 本指南将帮助您在不同操作系统上安装和配置 NautilusTrader。 系统要求 最低要求 - Python : 3.10 或更高版本（推荐 3.11+） - 内存 : 8GB RAM（推荐 16GB+） - 存储 : 至少 10GB 可用空间 - 操作系统 : Linux、macOS 或 Windows 支持的平台 - Ubuntu 20.04+ 推荐 ...',
+    date: 'JUL 2025',
+    category: '技术文档',
+    slug: 'nautilus-trader-installation-guide'
+  },
+  {
+    id: '218',
+    title: 'How to build an agent',
+    description: '如何构建一个代理程序 或者：皇帝的新衣 Thorsten Ball，2025年4月15日 构建一个功能完整的代码编辑代理程序其实并不难。 看起来应该很难。当你看到一个代理程序在编辑文件、运行命令、从错误中脱身、尝试不同策略时——似乎背后一定有什么秘密。 但其实没有。它就是一个LLM、一个循环，以及足够的token。这就是我们在 播客 /podcast 中从一开始就在说的。其余的，那些让Amp如此令...',
+    date: 'JUL 2025',
+    category: 'Development',
+    slug: 'how-to-build-an-agent'
+  },
+  {
+    id: '219',
+    title: 'NautilusTrader 核心概念详解',
+    description: 'NautilusTrader 核心概念详解 NautilusTrader 采用了许多先进的设计理念，理解这些核心概念对于高效使用平台至关重要。 1. 事件驱动架构 什么是事件驱动？ NautilusTrader 的核心是一个事件驱动系统，所有操作都通过事件触发： 主要事件类型 2. Actor 模型 Actor 概念 每个组件都是独立的 Actor，通过消息传递进行通信： Actor 通信 3. ...',
+    date: 'JUL 2025',
+    category: '技术文档',
+    slug: 'nautilus-trader-core-concepts'
+  },
+  {
+    id: '220',
+    title: 'NautilusTrader 中文文档索引',
+    description: 'NautilusTrader 中文文档索引 欢迎访问 NautilusTrader 中文文档中心。这里整理了所有 NautilusTrader 相关的中文技术文档。 🚀 快速开始 完整快速入门指南 /posts/nautilustrader 包含数据获取的完整入门教程，从环境设置到回测分析的全流程指南。 📚 核心文档 1. 安装与配置 - 安装指南 https://github.com/DaviR...',
+    date: 'JAN 2024',
+    category: '技术文档',
+    slug: 'nautilus-trader-docs-index'
+  },
+  {
+    id: '221',
+    title: 'NautilusTrader 中文文档 - 概述',
+    description: 'NautilusTrader 文档 > 原文： https://nautilustrader.io/docs/latest/ https://nautilustrader.io/docs/latest/ > > 翻译时间：2025-07-21 什么是 NautilusTrader？ NautilusTrader 是一个开源、高性能、生产级的算法交易平台，旨在帮助量化交易者进行回测和部署交易策略，具...',
+    date: 'JAN 2024',
+    category: 'NautilusTrader文档',
+    slug: 'nautilus-docs-overview'
+  },
+  {
+    id: '222',
+    title: 'NautilusTrader 完整快速入门指南',
+    description: 'NautilusTrader 完整快速入门指南 NautilusTrader 是一个高性能的开源交易平台，本文将提供一个包含数据获取的完整入门指南。 前置要求 - Python 3.11 或更高版本 - 稳定的网络连接（用于下载数据） 安装步骤 1. 安装 NautilusTrader 2. 获取示例数据（重要！） 官方提供了一个便捷的脚本来下载示例数据： 或者使用命令行： 这个脚本会： - 下载...',
+    date: 'JAN 2024',
+    category: 'Trading',
+    slug: 'nautilus-trader-quickstart-complete'
+  },
+  {
+    id: '223',
+    title: 'NautilusTrader 策略开发指南',
+    description: 'NautilusTrader 策略开发指南 本指南将带您深入了解如何在 NautilusTrader 平台上开发专业的交易策略。 策略基础结构 创建基本策略 策略生命周期方法 数据处理 处理市场数据 使用多时间框架 信号生成与验证 入场信号 出场信号 订单管理 创建和提交订单 订单事件处理 仓位管理 仓位大小计算 风险管理 高级功能 使用机器学习 组合策略 回测优化 参数优化 实盘部署检查清单 1...',
+    date: 'JUL 2025',
+    category: '技术文档',
+    slug: 'nautilus-trader-strategy-development'
+  },
 
 ]
 
 export const stats = {
-  totalPosts: 338,
+  totalPosts: 223,
   categories: Array.from(new Set(posts.map(p => p.category))).length
 }

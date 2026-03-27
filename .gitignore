@@ -12,3 +12,4 @@ dist/
 # Env
 .env
 .env.local
+.vercel
